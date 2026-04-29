@@ -1,0 +1,1201 @@
+product_id;product_name;category;warehouse_location;stock_level;reorder_point;supplier_name;supplier_country;lead_time_days;delay_days;demand_per_week;order_quantity;price_usd;last_restock_date;risk_level
+P00000;Electronics Item 0;electronics;New York;759;80;GlobalTech GmbH;Germany;5;3;130;396;1482.63;12/07/2025;low
+P00001;Electronics Item 1;electronics;Sydney;432;18;Samsung Electronics;South Korea;7;1;20;308;1206.03;28/07/2025;low
+P00002;Food Item 2;food;Toronto;429;66;TechSource Inc.;USA;9;9;234;438;1612.61;15/12/2025;high
+P00003;Furniture Item 3;furniture;London;284;49;GlobalTech GmbH;Germany;4;5;115;244;197.95;18/12/2024;medium
+P00004;Clothing Item 4;clothing;New York;747;127;Sony Corp.;Japan;30;1;279;90;1106.32;05/10/2025;low
+P00005;Clothing Item 5;clothing;Sydney;196;190;Samsung Electronics;South Korea;22;0;40;445;582.33;22/03/2024;low
+P00006;Food Item 6;food;Berlin;389;81;IKEA Supply;Sweden;27;10;237;133;743.51;02/08/2024;high
+P00007;Clothing Item 7;clothing;Berlin;623;172;Samsung Electronics;South Korea;24;8;92;133;927.21;03/10/2024;high
+P00008;Food Item 8;food;London;863;24;IKEA Supply;Sweden;26;0;122;255;539.14;04/08/2024;low
+P00009;Clothing Item 9;clothing;Dubai;671;137;Nestlé S.A.;Switzerland;15;10;207;185;283.56;01/02/2026;high
+P00010;Clothing Item 10;clothing;Sydney;438;159;Nestlé S.A.;Switzerland;8;5;209;310;989.56;12/02/2026;medium
+P00011;Electronics Item 11;electronics;Berlin;156;170;Cargill Inc.;USA;14;10;86;82;772.61;02/09/2025;high
+P00012;Furniture Item 12;furniture;Toronto;257;151;GlobalTech GmbH;Germany;22;0;445;399;1770.15;07/02/2026;low
+P00013;Clothing Item 13;clothing;London;114;85;TechSource Inc.;USA;15;2;227;419;1752.33;26/09/2024;low
+P00014;Food Item 14;food;Toronto;934;37;Adidas AG;Germany;10;10;450;361;401.83;17/01/2025;high
+P00015;Food Item 15;food;Toronto;976;145;IKEA Supply;Sweden;20;0;475;300;43.86;06/01/2025;low
+P00016;Clothing Item 16;clothing;Dubai;59;71;GlobalTech GmbH;Germany;3;9;454;424;974.55;11/03/2024;high
+P00017;Food Item 17;food;Shanghai;675;131;Apple Inc.;USA;6;8;489;320;1745.5;09/03/2025;high
+P00018;Food Item 18;food;Toronto;773;196;Apple Inc.;USA;23;3;358;254;1990.32;27/10/2025;low
+P00019;Clothing Item 19;clothing;Casablanca;921;142;Samsung Electronics;South Korea;8;1;236;82;679.48;25/08/2025;low
+P00020;Food Item 20;food;Sydney;225;11;Samsung Electronics;South Korea;2;10;41;84;1811.31;04/12/2024;high
+P00021;Electronics Item 21;electronics;Toronto;243;81;Adidas AG;Germany;7;7;347;117;1448.09;07/08/2025;high
+P00022;Furniture Item 22;furniture;Dubai;803;131;GlobalTech GmbH;Germany;7;6;418;99;1319.67;28/12/2024;medium
+P00023;Furniture Item 23;furniture;Tokyo;478;196;GlobalTech GmbH;Germany;21;10;32;81;808.23;13/12/2024;high
+P00024;Electronics Item 24;electronics;Dubai;196;58;Sony Corp.;Japan;5;7;279;143;560.7;12/09/2024;high
+P00025;Electronics Item 25;electronics;Casablanca;827;150;Adidas AG;Germany;21;0;55;478;34.44;05/04/2024;low
+P00026;Food Item 26;food;Shanghai;416;134;Sony Corp.;Japan;28;3;251;80;333.45;03/01/2024;low
+P00027;Furniture Item 27;furniture;Paris;948;126;Adidas AG;Germany;23;6;151;388;1438.22;07/06/2024;medium
+P00028;Food Item 28;food;Paris;222;24;IKEA Supply;Sweden;2;8;301;79;105.03;03/05/2025;high
+P00029;Food Item 29;food;New York;983;140;Cargill Inc.;USA;3;2;46;84;1352.05;28/08/2024;low
+P00030;Furniture Item 30;furniture;Berlin;964;155;TechSource Inc.;USA;20;9;131;367;168.56;04/11/2025;high
+P00031;Clothing Item 31;clothing;Paris;209;181;Apple Inc.;USA;8;5;371;252;266.1;22/10/2025;medium
+P00032;Clothing Item 32;clothing;Casablanca;323;28;Cargill Inc.;USA;20;7;9;101;151.16;06/08/2024;high
+P00033;Clothing Item 33;clothing;Shanghai;955;99;Samsung Electronics;South Korea;29;1;456;239;573.55;24/03/2025;low
+P00034;Clothing Item 34;clothing;Sydney;826;177;Adidas AG;Germany;22;0;275;203;1863.85;16/04/2024;low
+P00035;Food Item 35;food;Paris;118;37;Apple Inc.;USA;5;8;385;194;1211.64;04/01/2026;high
+P00036;Clothing Item 36;clothing;Dubai;703;172;Nike Inc.;USA;17;4;441;178;1811.15;22/02/2024;medium
+P00037;Electronics Item 37;electronics;Tokyo;849;80;Nestlé S.A.;Switzerland;11;0;27;376;1959.7;14/06/2024;low
+P00038;Furniture Item 38;furniture;Toronto;722;119;GlobalTech GmbH;Germany;4;0;292;403;1808.34;12/07/2025;low
+P00039;Electronics Item 39;electronics;London;596;151;TechSource Inc.;USA;5;6;80;207;732.48;26/03/2026;medium
+P00040;Electronics Item 40;electronics;London;215;184;IKEA Supply;Sweden;4;10;132;449;1121.97;20/02/2025;high
+P00041;Food Item 41;food;Dubai;885;51;Sony Corp.;Japan;29;2;414;62;362.82;06/12/2024;low
+P00042;Furniture Item 42;furniture;Dubai;273;50;TechSource Inc.;USA;13;1;408;489;944.03;23/07/2024;low
+P00043;Furniture Item 43;furniture;London;312;68;Samsung Electronics;South Korea;22;0;119;254;659.88;12/03/2024;low
+P00044;Clothing Item 44;clothing;London;656;140;Adidas AG;Germany;27;10;209;219;1878.78;28/04/2024;high
+P00045;Clothing Item 45;clothing;Shanghai;594;77;Sony Corp.;Japan;20;1;24;226;1458.45;17/11/2024;low
+P00046;Furniture Item 46;furniture;Sydney;523;39;Apple Inc.;USA;7;9;202;72;1419.03;02/01/2024;high
+P00047;Food Item 47;food;London;441;27;IKEA Supply;Sweden;30;10;490;369;631.26;07/05/2024;high
+P00048;Clothing Item 48;clothing;Toronto;316;180;Apple Inc.;USA;13;5;214;333;258.94;06/03/2025;medium
+P00049;Furniture Item 49;furniture;Shanghai;630;155;TechSource Inc.;USA;18;6;159;205;577.39;16/03/2025;medium
+P00050;Clothing Item 50;clothing;Casablanca;452;123;Nike Inc.;USA;17;3;350;456;1802.86;26/03/2026;low
+P00051;Food Item 51;food;Berlin;290;141;IKEA Supply;Sweden;20;10;344;97;1637.75;08/02/2026;high
+P00052;Food Item 52;food;Paris;230;60;Samsung Electronics;South Korea;2;0;80;293;1224.49;25/02/2026;low
+P00053;Electronics Item 53;electronics;Casablanca;424;171;Sony Corp.;Japan;23;3;299;303;802.31;31/05/2024;low
+P00054;Electronics Item 54;electronics;Berlin;797;118;Adidas AG;Germany;26;2;117;287;105.19;12/09/2024;low
+P00055;Electronics Item 55;electronics;Casablanca;136;128;Cargill Inc.;USA;18;8;346;212;1900.33;29/03/2025;high
+P00056;Furniture Item 56;furniture;Toronto;456;50;Apple Inc.;USA;15;7;385;434;498.24;14/10/2025;high
+P00057;Clothing Item 57;clothing;Toronto;496;170;GlobalTech GmbH;Germany;15;4;127;415;575.03;05/10/2024;medium
+P00058;Clothing Item 58;clothing;London;914;148;Samsung Electronics;South Korea;5;2;46;246;1389.43;24/12/2025;low
+P00059;Food Item 59;food;Berlin;424;114;Sony Corp.;Japan;15;8;174;81;417.63;06/03/2025;high
+P00060;Furniture Item 60;furniture;Sydney;968;188;Nike Inc.;USA;13;9;15;53;1885.77;01/11/2024;high
+P00061;Furniture Item 61;furniture;Tokyo;551;198;Samsung Electronics;South Korea;29;9;284;299;442.75;22/03/2025;high
+P00062;Furniture Item 62;furniture;New York;398;96;Sony Corp.;Japan;26;10;347;420;334.26;23/04/2025;high
+P00063;Food Item 63;food;Sydney;546;16;Cargill Inc.;USA;19;6;469;389;59.07;20/10/2025;medium
+P00064;Furniture Item 64;furniture;Shanghai;887;128;Sony Corp.;Japan;9;0;98;217;427.26;30/11/2024;low
+P00065;Clothing Item 65;clothing;Tokyo;284;117;TechSource Inc.;USA;16;1;134;433;1081.14;24/12/2024;low
+P00066;Food Item 66;food;Berlin;799;176;Samsung Electronics;South Korea;8;0;25;479;45.66;05/06/2024;low
+P00067;Food Item 67;food;Shanghai;484;181;Nike Inc.;USA;7;9;63;408;516.21;12/01/2025;high
+P00068;Food Item 68;food;Sydney;621;193;GlobalTech GmbH;Germany;10;2;63;346;56.23;15/11/2024;low
+P00069;Furniture Item 69;furniture;Tokyo;964;193;Samsung Electronics;South Korea;19;1;106;102;1395.9;04/11/2024;low
+P00070;Electronics Item 70;electronics;Sydney;801;20;IKEA Supply;Sweden;14;8;182;85;1014.39;15/12/2024;high
+P00071;Electronics Item 71;electronics;Tokyo;842;135;Nike Inc.;USA;12;6;59;412;310.22;29/06/2024;medium
+P00072;Clothing Item 72;clothing;Sydney;827;147;Sony Corp.;Japan;15;7;401;472;1463.4;01/10/2024;high
+P00073;Clothing Item 73;clothing;Dubai;850;32;Nike Inc.;USA;8;7;147;341;1222.61;23/01/2025;high
+P00074;Clothing Item 74;clothing;New York;506;93;IKEA Supply;Sweden;7;7;98;458;520.41;13/10/2024;high
+P00075;Clothing Item 75;clothing;Toronto;10;142;Samsung Electronics;South Korea;3;3;490;418;815.82;22/07/2025;high
+P00076;Food Item 76;food;Casablanca;661;192;TechSource Inc.;USA;26;7;256;97;592.0;18/02/2025;high
+P00077;Food Item 77;food;Paris;679;158;Adidas AG;Germany;18;7;193;226;853.88;02/02/2026;high
+P00078;Clothing Item 78;clothing;London;719;126;Samsung Electronics;South Korea;9;4;143;111;1443.96;19/11/2024;medium
+P00079;Electronics Item 79;electronics;Toronto;973;186;Nike Inc.;USA;7;3;99;191;1450.55;17/02/2026;low
+P00080;Clothing Item 80;clothing;Berlin;852;59;Nestlé S.A.;Switzerland;12;3;156;204;33.23;30/06/2025;low
+P00081;Food Item 81;food;Paris;46;23;Nestlé S.A.;Switzerland;23;4;288;376;1737.58;17/05/2025;medium
+P00082;Electronics Item 82;electronics;New York;587;82;IKEA Supply;Sweden;15;7;245;144;1931.17;15/09/2024;high
+P00083;Furniture Item 83;furniture;Berlin;841;26;Cargill Inc.;USA;3;7;210;372;1374.47;04/06/2024;high
+P00084;Food Item 84;food;Sydney;971;87;Adidas AG;Germany;4;3;48;441;835.27;02/09/2025;low
+P00085;Food Item 85;food;Toronto;389;125;Cargill Inc.;USA;10;7;470;269;614.23;27/09/2025;high
+P00086;Electronics Item 86;electronics;Sydney;983;199;Samsung Electronics;South Korea;21;3;55;185;1322.55;09/06/2024;low
+P00087;Food Item 87;food;Shanghai;565;29;Nike Inc.;USA;14;0;85;402;1189.65;25/10/2024;low
+P00088;Electronics Item 88;electronics;Dubai;295;190;Samsung Electronics;South Korea;3;7;149;185;1576.72;02/10/2025;high
+P00089;Food Item 89;food;Tokyo;117;149;Apple Inc.;USA;5;10;120;473;288.76;02/03/2024;high
+P00090;Food Item 90;food;Paris;609;155;GlobalTech GmbH;Germany;15;4;476;289;1378.91;17/12/2025;medium
+P00091;Furniture Item 91;furniture;Paris;512;148;Cargill Inc.;USA;3;7;257;70;1779.4;22/01/2026;high
+P00092;Clothing Item 92;clothing;Sydney;256;16;Cargill Inc.;USA;22;3;51;350;1901.82;22/02/2026;low
+P00093;Clothing Item 93;clothing;Sydney;41;54;Nike Inc.;USA;21;8;245;192;367.07;22/08/2025;high
+P00094;Furniture Item 94;furniture;Casablanca;992;33;IKEA Supply;Sweden;14;5;245;214;1341.92;13/06/2024;medium
+P00095;Clothing Item 95;clothing;Tokyo;710;136;Adidas AG;Germany;13;10;152;68;912.38;18/11/2024;high
+P00096;Clothing Item 96;clothing;London;118;113;TechSource Inc.;USA;27;8;447;386;1739.39;18/04/2025;high
+P00097;Furniture Item 97;furniture;New York;192;142;Nike Inc.;USA;25;9;190;370;886.87;22/02/2024;high
+P00098;Food Item 98;food;Paris;562;43;Nike Inc.;USA;15;4;479;112;62.59;07/10/2025;medium
+P00099;Food Item 99;food;Shanghai;318;151;GlobalTech GmbH;Germany;14;8;12;165;1984.55;26/04/2024;high
+P00100;Furniture Item 100;furniture;Berlin;663;49;Apple Inc.;USA;17;4;260;262;1670.27;28/04/2025;medium
+P00101;Food Item 101;food;Casablanca;564;47;Cargill Inc.;USA;30;3;201;310;1493.85;19/05/2024;low
+P00102;Electronics Item 102;electronics;Paris;791;116;TechSource Inc.;USA;9;8;179;194;1453.47;24/08/2025;high
+P00103;Furniture Item 103;furniture;Shanghai;457;147;Adidas AG;Germany;11;5;252;440;1089.14;11/04/2025;medium
+P00104;Clothing Item 104;clothing;Dubai;714;71;Sony Corp.;Japan;8;6;297;72;639.76;29/04/2025;medium
+P00105;Furniture Item 105;furniture;Tokyo;679;176;Nestlé S.A.;Switzerland;2;7;82;307;1930.88;05/12/2024;high
+P00106;Electronics Item 106;electronics;Casablanca;102;144;Nestlé S.A.;Switzerland;1;7;471;259;1742.51;07/06/2024;high
+P00107;Electronics Item 107;electronics;Casablanca;800;77;Sony Corp.;Japan;23;9;178;382;165.23;02/12/2024;high
+P00108;Furniture Item 108;furniture;London;641;193;Adidas AG;Germany;28;7;459;68;1236.83;28/08/2024;high
+P00109;Clothing Item 109;clothing;Dubai;764;33;GlobalTech GmbH;Germany;25;1;227;277;336.9;02/11/2024;low
+P00110;Electronics Item 110;electronics;New York;332;24;Sony Corp.;Japan;12;5;155;124;492.17;25/02/2025;medium
+P00111;Food Item 111;food;Shanghai;179;30;Samsung Electronics;South Korea;20;6;317;304;1826.09;26/05/2024;medium
+P00112;Food Item 112;food;Casablanca;653;75;TechSource Inc.;USA;22;4;240;461;933.18;21/10/2024;medium
+P00113;Food Item 113;food;Berlin;452;98;Sony Corp.;Japan;21;4;305;403;503.95;05/11/2024;medium
+P00114;Food Item 114;food;Tokyo;873;133;Cargill Inc.;USA;13;3;59;233;1151.75;17/12/2025;low
+P00115;Clothing Item 115;clothing;New York;849;178;Cargill Inc.;USA;1;4;207;492;1373.17;01/02/2026;medium
+P00116;Electronics Item 116;electronics;Sydney;763;137;Samsung Electronics;South Korea;25;4;431;360;1604.85;12/08/2024;medium
+P00117;Food Item 117;food;Sydney;256;183;Nestlé S.A.;Switzerland;22;10;391;371;198.84;04/10/2025;high
+P00118;Electronics Item 118;electronics;Paris;807;122;Nestlé S.A.;Switzerland;12;9;22;96;1819.71;30/11/2024;high
+P00119;Furniture Item 119;furniture;Shanghai;205;43;IKEA Supply;Sweden;29;8;407;321;1006.08;06/10/2024;high
+P00120;Food Item 120;food;Paris;935;133;IKEA Supply;Sweden;24;4;500;461;234.76;18/03/2024;medium
+P00121;Food Item 121;food;Dubai;880;183;Adidas AG;Germany;13;10;375;237;185.15;08/02/2025;high
+P00122;Electronics Item 122;electronics;Paris;549;41;Apple Inc.;USA;22;5;237;349;765.15;15/10/2025;medium
+P00123;Clothing Item 123;clothing;Berlin;691;69;Adidas AG;Germany;20;0;246;217;1830.94;14/08/2024;low
+P00124;Electronics Item 124;electronics;Casablanca;931;189;GlobalTech GmbH;Germany;14;10;159;121;95.47;08/02/2024;high
+P00125;Clothing Item 125;clothing;Casablanca;118;34;Sony Corp.;Japan;5;8;125;282;745.17;30/01/2026;high
+P00126;Furniture Item 126;furniture;Sydney;760;196;GlobalTech GmbH;Germany;21;6;84;476;981.25;21/02/2025;medium
+P00127;Clothing Item 127;clothing;New York;706;104;Samsung Electronics;South Korea;15;7;116;487;728.56;03/12/2025;high
+P00128;Clothing Item 128;clothing;Toronto;923;175;Apple Inc.;USA;13;0;188;147;1936.57;10/04/2025;low
+P00129;Electronics Item 129;electronics;Dubai;657;173;IKEA Supply;Sweden;2;0;310;174;1977.7;16/03/2026;low
+P00130;Food Item 130;food;Berlin;849;151;Samsung Electronics;South Korea;7;9;111;218;1549.87;18/03/2026;high
+P00131;Electronics Item 131;electronics;Paris;879;47;Nestlé S.A.;Switzerland;9;8;71;106;1323.81;27/01/2024;high
+P00132;Food Item 132;food;New York;366;70;Nestlé S.A.;Switzerland;1;5;306;185;109.54;29/01/2026;medium
+P00133;Furniture Item 133;furniture;Toronto;116;200;IKEA Supply;Sweden;15;7;37;312;1189.36;07/04/2025;high
+P00134;Food Item 134;food;Sydney;44;196;Apple Inc.;USA;17;10;406;284;1288.46;01/02/2024;high
+P00135;Electronics Item 135;electronics;Casablanca;867;112;Nike Inc.;USA;4;10;223;414;1819.85;16/03/2024;high
+P00136;Electronics Item 136;electronics;London;622;47;Cargill Inc.;USA;9;2;38;374;1172.8;30/12/2025;low
+P00137;Clothing Item 137;clothing;Tokyo;611;145;Cargill Inc.;USA;17;7;155;270;202.86;19/12/2025;high
+P00138;Electronics Item 138;electronics;Toronto;738;65;Samsung Electronics;South Korea;29;7;225;261;681.17;09/04/2025;high
+P00139;Furniture Item 139;furniture;Tokyo;747;34;Apple Inc.;USA;11;6;165;241;1907.42;04/12/2025;medium
+P00140;Furniture Item 140;furniture;Berlin;93;31;IKEA Supply;Sweden;4;6;52;465;264.58;02/03/2024;medium
+P00141;Clothing Item 141;clothing;Berlin;420;100;Sony Corp.;Japan;25;10;452;494;1832.11;22/02/2024;high
+P00142;Clothing Item 142;clothing;Sydney;319;100;Samsung Electronics;South Korea;17;9;58;129;1315.19;17/08/2024;high
+P00143;Electronics Item 143;electronics;London;865;152;Apple Inc.;USA;25;1;193;343;456.19;15/03/2025;low
+P00144;Electronics Item 144;electronics;Sydney;951;178;Nestlé S.A.;Switzerland;1;4;429;189;1406.88;12/11/2024;medium
+P00145;Clothing Item 145;clothing;London;6;56;Sony Corp.;Japan;19;2;450;85;288.04;10/10/2025;high
+P00146;Electronics Item 146;electronics;Berlin;764;145;Nike Inc.;USA;14;6;115;224;319.03;15/11/2024;medium
+P00147;Clothing Item 147;clothing;Sydney;610;31;Nestlé S.A.;Switzerland;5;0;457;436;1237.59;21/11/2025;low
+P00148;Electronics Item 148;electronics;Paris;453;179;Nike Inc.;USA;20;7;222;262;549.97;12/02/2026;high
+P00149;Electronics Item 149;electronics;London;440;38;Cargill Inc.;USA;22;10;150;299;1056.23;11/11/2024;high
+P00150;Electronics Item 150;electronics;Dubai;404;163;Apple Inc.;USA;7;0;33;158;1535.86;21/02/2026;low
+P00151;Clothing Item 151;clothing;Paris;335;40;Sony Corp.;Japan;24;7;8;139;262.73;29/06/2025;high
+P00152;Food Item 152;food;Toronto;572;181;Sony Corp.;Japan;3;5;417;491;1485.37;22/03/2025;medium
+P00153;Electronics Item 153;electronics;Casablanca;943;29;Sony Corp.;Japan;19;5;446;343;811.82;17/10/2025;medium
+P00154;Furniture Item 154;furniture;Paris;117;113;Cargill Inc.;USA;6;5;15;285;1664.89;05/01/2025;medium
+P00155;Electronics Item 155;electronics;Tokyo;864;37;Sony Corp.;Japan;19;6;129;318;161.9;13/11/2024;medium
+P00156;Clothing Item 156;clothing;Dubai;341;53;GlobalTech GmbH;Germany;21;8;44;321;1022.35;05/03/2026;high
+P00157;Clothing Item 157;clothing;London;744;175;GlobalTech GmbH;Germany;8;2;422;124;515.66;26/06/2024;low
+P00158;Food Item 158;food;Berlin;181;170;Cargill Inc.;USA;25;7;257;439;1161.04;28/11/2025;high
+P00159;Clothing Item 159;clothing;London;154;122;Apple Inc.;USA;15;7;39;457;552.97;27/02/2024;high
+P00160;Clothing Item 160;clothing;Toronto;75;89;TechSource Inc.;USA;2;7;241;238;1664.23;19/03/2024;high
+P00161;Electronics Item 161;electronics;Sydney;608;139;Adidas AG;Germany;19;7;201;455;1479.15;12/02/2024;high
+P00162;Furniture Item 162;furniture;Sydney;667;58;Adidas AG;Germany;16;9;169;127;1915.66;06/04/2025;high
+P00163;Electronics Item 163;electronics;London;731;31;TechSource Inc.;USA;6;10;263;176;1416.71;25/03/2025;high
+P00164;Food Item 164;food;London;381;82;IKEA Supply;Sweden;25;6;203;397;1197.78;19/03/2026;medium
+P00165;Clothing Item 165;clothing;Berlin;337;34;Apple Inc.;USA;13;10;290;179;1448.85;03/11/2025;high
+P00166;Food Item 166;food;London;83;159;IKEA Supply;Sweden;30;2;344;208;1935.55;16/12/2025;high
+P00167;Furniture Item 167;furniture;Shanghai;609;191;Adidas AG;Germany;10;1;485;242;1288.77;02/12/2024;low
+P00168;Food Item 168;food;Toronto;95;175;IKEA Supply;Sweden;17;6;348;59;728.38;03/07/2024;high
+P00169;Food Item 169;food;London;970;134;Nestlé S.A.;Switzerland;5;3;103;89;595.11;18/03/2026;low
+P00170;Electronics Item 170;electronics;Toronto;789;148;IKEA Supply;Sweden;2;8;432;498;1533.78;14/05/2024;high
+P00171;Furniture Item 171;furniture;Shanghai;166;56;Nestlé S.A.;Switzerland;26;9;430;419;878.16;24/02/2025;high
+P00172;Clothing Item 172;clothing;Dubai;992;123;Nike Inc.;USA;25;4;317;169;1070.35;12/11/2024;medium
+P00173;Furniture Item 173;furniture;Dubai;376;183;Nike Inc.;USA;15;9;489;443;567.13;26/01/2025;high
+P00174;Furniture Item 174;furniture;Shanghai;836;61;Apple Inc.;USA;5;9;415;76;1284.15;15/01/2025;high
+P00175;Electronics Item 175;electronics;Toronto;871;41;Nestlé S.A.;Switzerland;25;1;150;189;901.39;09/06/2025;low
+P00176;Food Item 176;food;Tokyo;93;66;IKEA Supply;Sweden;29;7;423;63;832.72;09/02/2025;high
+P00177;Clothing Item 177;clothing;Dubai;395;30;IKEA Supply;Sweden;1;3;196;100;1679.16;27/10/2025;low
+P00178;Clothing Item 178;clothing;Shanghai;140;19;Nestlé S.A.;Switzerland;23;7;151;438;1412.54;04/04/2025;high
+P00179;Electronics Item 179;electronics;Berlin;19;75;Cargill Inc.;USA;18;2;115;320;849.39;05/03/2026;medium
+P00180;Clothing Item 180;clothing;Dubai;308;41;Cargill Inc.;USA;14;3;29;284;130.3;26/05/2025;low
+P00181;Electronics Item 181;electronics;Toronto;588;71;Sony Corp.;Japan;10;2;372;50;1231.55;03/09/2024;low
+P00182;Furniture Item 182;furniture;Shanghai;680;181;GlobalTech GmbH;Germany;12;8;48;319;1090.44;16/03/2026;high
+P00183;Electronics Item 183;electronics;Tokyo;894;130;IKEA Supply;Sweden;13;10;27;179;1495.9;31/12/2024;high
+P00184;Electronics Item 184;electronics;London;246;197;Cargill Inc.;USA;4;10;341;426;1514.57;16/05/2024;high
+P00185;Electronics Item 185;electronics;London;559;96;Nike Inc.;USA;6;10;421;406;959.67;05/07/2024;high
+P00186;Food Item 186;food;Berlin;733;127;TechSource Inc.;USA;7;4;23;455;402.94;12/02/2024;medium
+P00187;Clothing Item 187;clothing;Paris;527;111;Apple Inc.;USA;16;8;422;68;1507.82;14/07/2024;high
+P00188;Clothing Item 188;clothing;London;882;22;Apple Inc.;USA;11;10;448;113;1599.69;23/03/2025;high
+P00189;Furniture Item 189;furniture;Casablanca;916;108;Nike Inc.;USA;16;2;178;238;1849.0;15/06/2025;low
+P00190;Clothing Item 190;clothing;Berlin;744;118;Nestlé S.A.;Switzerland;20;6;45;329;591.06;15/04/2024;medium
+P00191;Electronics Item 191;electronics;London;676;85;Sony Corp.;Japan;20;7;161;135;1381.08;25/12/2024;high
+P00192;Furniture Item 192;furniture;New York;744;100;TechSource Inc.;USA;9;6;319;88;1344.01;19/02/2025;medium
+P00193;Clothing Item 193;clothing;Toronto;820;183;Cargill Inc.;USA;5;0;86;397;1563.72;05/02/2024;low
+P00194;Food Item 194;food;Berlin;241;175;Cargill Inc.;USA;13;5;192;66;1212.16;26/11/2025;medium
+P00195;Furniture Item 195;furniture;London;380;123;Nestlé S.A.;Switzerland;19;1;395;321;737.07;17/11/2024;low
+P00196;Clothing Item 196;clothing;Dubai;983;39;Adidas AG;Germany;16;2;18;248;1827.52;30/04/2024;low
+P00197;Clothing Item 197;clothing;Paris;720;124;Nike Inc.;USA;10;9;114;152;249.66;16/03/2024;high
+P00198;Furniture Item 198;furniture;Shanghai;920;192;IKEA Supply;Sweden;26;1;232;391;698.11;07/03/2024;low
+P00199;Clothing Item 199;clothing;Paris;871;50;IKEA Supply;Sweden;6;10;369;310;452.36;24/07/2024;high
+P00200;Food Item 200;food;Dubai;809;136;Cargill Inc.;USA;18;5;18;238;937.47;18/07/2025;medium
+P00201;Food Item 201;food;Sydney;905;32;Nike Inc.;USA;13;4;38;319;824.54;23/02/2025;medium
+P00202;Electronics Item 202;electronics;Shanghai;995;91;Nike Inc.;USA;15;1;333;398;1037.13;11/05/2024;low
+P00203;Food Item 203;food;Shanghai;443;138;GlobalTech GmbH;Germany;27;0;471;315;310.27;17/06/2024;low
+P00204;Food Item 204;food;London;957;191;Apple Inc.;USA;17;5;120;483;162.33;20/07/2024;medium
+P00205;Clothing Item 205;clothing;Shanghai;640;87;Adidas AG;Germany;3;8;319;378;341.43;17/08/2025;high
+P00206;Food Item 206;food;Shanghai;674;169;Cargill Inc.;USA;11;9;373;71;1651.35;30/01/2024;high
+P00207;Electronics Item 207;electronics;New York;971;174;Samsung Electronics;South Korea;9;9;399;442;1146.41;24/09/2025;high
+P00208;Electronics Item 208;electronics;Casablanca;910;170;Apple Inc.;USA;21;4;284;297;493.53;02/12/2025;medium
+P00209;Furniture Item 209;furniture;Paris;464;28;Nike Inc.;USA;6;0;357;262;971.08;27/07/2024;low
+P00210;Clothing Item 210;clothing;Sydney;147;90;IKEA Supply;Sweden;24;5;446;254;265.88;14/01/2025;medium
+P00211;Electronics Item 211;electronics;London;247;129;Samsung Electronics;South Korea;15;4;67;122;198.14;24/10/2024;medium
+P00212;Furniture Item 212;furniture;Sydney;428;73;IKEA Supply;Sweden;27;2;497;345;1443.65;13/07/2024;low
+P00213;Food Item 213;food;Casablanca;527;129;TechSource Inc.;USA;16;4;260;96;1890.74;01/06/2025;medium
+P00214;Furniture Item 214;furniture;Dubai;220;159;Apple Inc.;USA;2;0;185;303;1197.05;31/10/2025;low
+P00215;Furniture Item 215;furniture;Paris;549;12;Nestlé S.A.;Switzerland;14;1;438;185;1456.38;21/02/2026;low
+P00216;Furniture Item 216;furniture;London;46;112;Samsung Electronics;South Korea;18;9;31;235;1108.68;16/03/2024;high
+P00217;Furniture Item 217;furniture;Toronto;461;150;Cargill Inc.;USA;22;9;148;110;261.68;09/04/2024;high
+P00218;Furniture Item 218;furniture;London;813;96;Nestlé S.A.;Switzerland;25;5;290;151;1206.91;15/02/2025;medium
+P00219;Electronics Item 219;electronics;New York;39;45;Nike Inc.;USA;26;5;370;315;916.69;12/09/2025;high
+P00220;Food Item 220;food;London;953;166;Cargill Inc.;USA;13;2;168;428;1685.99;30/08/2025;low
+P00221;Clothing Item 221;clothing;Toronto;848;140;Cargill Inc.;USA;23;7;277;203;952.41;18/01/2024;high
+P00222;Clothing Item 222;clothing;London;689;38;TechSource Inc.;USA;10;9;218;355;951.81;02/11/2025;high
+P00223;Food Item 223;food;New York;597;132;Cargill Inc.;USA;21;8;92;446;1683.13;31/05/2024;high
+P00224;Food Item 224;food;New York;586;189;Nike Inc.;USA;1;3;61;210;840.47;26/02/2025;low
+P00225;Food Item 225;food;Tokyo;513;166;TechSource Inc.;USA;28;7;476;411;280.47;31/07/2024;high
+P00226;Clothing Item 226;clothing;Casablanca;538;106;Adidas AG;Germany;15;2;165;225;1094.82;23/11/2025;low
+P00227;Clothing Item 227;clothing;Sydney;495;59;Adidas AG;Germany;9;3;495;202;453.61;31/10/2024;low
+P00228;Clothing Item 228;clothing;Dubai;706;190;IKEA Supply;Sweden;16;5;255;336;1867.73;25/03/2026;medium
+P00229;Clothing Item 229;clothing;Paris;124;156;Sony Corp.;Japan;13;8;351;469;693.54;02/03/2026;high
+P00230;Food Item 230;food;Paris;43;83;Nike Inc.;USA;12;1;494;385;516.61;05/05/2025;high
+P00231;Food Item 231;food;Dubai;847;147;Apple Inc.;USA;23;8;143;120;222.91;28/01/2026;high
+P00232;Food Item 232;food;Dubai;51;181;Samsung Electronics;South Korea;8;8;468;76;204.89;04/12/2024;high
+P00233;Furniture Item 233;furniture;Berlin;697;45;Nestlé S.A.;Switzerland;30;8;7;258;1307.52;02/05/2025;high
+P00234;Furniture Item 234;furniture;Dubai;774;83;TechSource Inc.;USA;21;4;169;443;183.47;10/08/2025;medium
+P00235;Food Item 235;food;Toronto;756;195;Nestlé S.A.;Switzerland;30;0;440;263;1765.08;29/06/2024;low
+P00236;Electronics Item 236;electronics;Tokyo;806;136;TechSource Inc.;USA;29;4;100;54;600.29;09/09/2025;medium
+P00237;Electronics Item 237;electronics;London;291;126;Nike Inc.;USA;17;8;333;118;1702.86;24/04/2025;high
+P00238;Clothing Item 238;clothing;Dubai;828;38;Nike Inc.;USA;24;2;174;381;518.24;09/07/2024;low
+P00239;Electronics Item 239;electronics;London;809;85;Samsung Electronics;South Korea;25;10;295;139;1223.85;16/10/2025;high
+P00240;Furniture Item 240;furniture;Tokyo;527;93;GlobalTech GmbH;Germany;22;6;49;144;1963.46;03/05/2025;medium
+P00241;Clothing Item 241;clothing;Dubai;6;76;Apple Inc.;USA;15;3;201;218;607.38;10/01/2026;high
+P00242;Electronics Item 242;electronics;Paris;669;102;GlobalTech GmbH;Germany;2;3;359;288;617.08;19/02/2025;low
+P00243;Clothing Item 243;clothing;Berlin;654;85;Samsung Electronics;South Korea;8;9;193;118;958.97;10/04/2025;high
+P00244;Clothing Item 244;clothing;Tokyo;718;150;Adidas AG;Germany;25;7;472;460;1329.87;11/08/2024;high
+P00245;Food Item 245;food;Sydney;894;30;IKEA Supply;Sweden;17;7;274;89;1834.9;24/04/2024;high
+P00246;Electronics Item 246;electronics;Toronto;924;139;Nestlé S.A.;Switzerland;18;9;108;134;659.59;16/06/2025;high
+P00247;Furniture Item 247;furniture;Berlin;696;62;GlobalTech GmbH;Germany;16;9;372;311;893.74;26/02/2024;high
+P00248;Furniture Item 248;furniture;Shanghai;525;116;Adidas AG;Germany;2;9;238;286;1347.17;11/11/2024;high
+P00249;Electronics Item 249;electronics;Tokyo;260;10;GlobalTech GmbH;Germany;19;3;386;73;850.28;18/12/2025;low
+P00250;Electronics Item 250;electronics;Toronto;61;27;Apple Inc.;USA;2;7;483;259;364.06;18/05/2024;high
+P00251;Furniture Item 251;furniture;London;912;107;GlobalTech GmbH;Germany;13;6;234;399;1928.47;06/07/2025;medium
+P00252;Food Item 252;food;London;121;55;Nestlé S.A.;Switzerland;17;6;280;422;1957.56;04/01/2024;medium
+P00253;Electronics Item 253;electronics;Paris;474;182;Adidas AG;Germany;14;8;373;244;1647.6;10/09/2024;high
+P00254;Furniture Item 254;furniture;London;158;80;Sony Corp.;Japan;2;1;101;364;1533.28;17/01/2024;low
+P00255;Food Item 255;food;Dubai;68;35;Cargill Inc.;USA;15;0;309;394;1408.06;19/02/2024;low
+P00256;Food Item 256;food;New York;411;122;TechSource Inc.;USA;7;8;124;121;1010.27;23/10/2024;high
+P00257;Food Item 257;food;Sydney;326;157;IKEA Supply;Sweden;27;10;311;171;607.02;26/05/2024;high
+P00258;Food Item 258;food;Tokyo;307;80;Nestlé S.A.;Switzerland;19;8;36;370;1359.11;23/07/2025;high
+P00259;Furniture Item 259;furniture;New York;995;98;Sony Corp.;Japan;22;10;487;452;1051.3;14/12/2025;high
+P00260;Furniture Item 260;furniture;Tokyo;152;86;Adidas AG;Germany;25;2;197;292;485.73;18/08/2024;low
+P00261;Clothing Item 261;clothing;Shanghai;825;128;Sony Corp.;Japan;18;0;473;263;1116.79;17/05/2024;low
+P00262;Furniture Item 262;furniture;Dubai;261;62;Nike Inc.;USA;3;10;174;483;745.3;02/07/2025;high
+P00263;Food Item 263;food;New York;274;106;TechSource Inc.;USA;20;9;349;497;150.2;18/02/2026;high
+P00264;Food Item 264;food;Casablanca;213;95;Samsung Electronics;South Korea;7;0;160;429;239.05;11/02/2026;low
+P00265;Furniture Item 265;furniture;Dubai;712;164;Samsung Electronics;South Korea;13;3;365;332;646.62;16/10/2024;low
+P00266;Furniture Item 266;furniture;Casablanca;546;176;IKEA Supply;Sweden;9;4;188;312;1766.21;22/04/2025;medium
+P00267;Electronics Item 267;electronics;Casablanca;779;91;IKEA Supply;Sweden;12;3;473;261;96.2;14/08/2024;low
+P00268;Food Item 268;food;New York;267;151;Sony Corp.;Japan;19;9;483;201;309.06;03/12/2024;high
+P00269;Food Item 269;food;Tokyo;583;72;IKEA Supply;Sweden;21;8;260;181;1527.9;15/05/2025;high
+P00270;Furniture Item 270;furniture;Casablanca;172;197;Nestlé S.A.;Switzerland;6;5;412;418;1095.36;07/07/2024;high
+P00271;Electronics Item 271;electronics;Toronto;34;29;TechSource Inc.;USA;2;10;488;261;279.3;07/10/2025;high
+P00272;Food Item 272;food;Berlin;724;48;Nike Inc.;USA;17;3;9;241;125.6;15/10/2025;low
+P00273;Furniture Item 273;furniture;Casablanca;16;11;TechSource Inc.;USA;14;8;277;58;1061.19;08/10/2024;high
+P00274;Clothing Item 274;clothing;New York;514;188;Nestlé S.A.;Switzerland;26;6;350;104;1836.51;20/06/2025;medium
+P00275;Food Item 275;food;Dubai;196;168;IKEA Supply;Sweden;27;4;274;186;1590.9;21/03/2024;medium
+P00276;Clothing Item 276;clothing;Tokyo;470;154;GlobalTech GmbH;Germany;10;3;129;384;1983.39;27/10/2025;low
+P00277;Electronics Item 277;electronics;Berlin;415;107;TechSource Inc.;USA;16;8;198;376;23.85;24/06/2024;high
+P00278;Electronics Item 278;electronics;Casablanca;865;121;GlobalTech GmbH;Germany;19;5;335;320;1838.71;23/08/2024;medium
+P00279;Food Item 279;food;Sydney;486;79;Apple Inc.;USA;22;1;28;328;1129.2;03/02/2024;low
+P00280;Food Item 280;food;London;16;63;Sony Corp.;Japan;25;2;305;89;602.06;31/07/2025;high
+P00281;Food Item 281;food;Sydney;854;109;Sony Corp.;Japan;11;8;351;436;1480.79;20/03/2026;high
+P00282;Electronics Item 282;electronics;Toronto;763;98;Samsung Electronics;South Korea;14;1;32;479;156.66;11/09/2025;low
+P00283;Furniture Item 283;furniture;London;30;172;Samsung Electronics;South Korea;16;7;144;232;1108.31;19/01/2025;high
+P00284;Furniture Item 284;furniture;Shanghai;696;159;Cargill Inc.;USA;3;6;343;201;1597.12;31/12/2025;medium
+P00285;Electronics Item 285;electronics;Berlin;274;49;Sony Corp.;Japan;5;10;199;212;724.6;03/04/2024;high
+P00286;Electronics Item 286;electronics;Paris;455;102;Nestlé S.A.;Switzerland;4;4;394;94;378.85;04/04/2025;medium
+P00287;Furniture Item 287;furniture;Berlin;26;32;Cargill Inc.;USA;3;8;186;356;1569.96;29/01/2025;high
+P00288;Electronics Item 288;electronics;Paris;423;109;Adidas AG;Germany;24;1;403;174;1146.06;22/06/2024;low
+P00289;Furniture Item 289;furniture;Shanghai;142;78;Nestlé S.A.;Switzerland;16;4;159;82;338.58;09/10/2024;medium
+P00290;Furniture Item 290;furniture;Paris;495;29;Nike Inc.;USA;8;4;189;354;1235.25;13/04/2025;medium
+P00291;Electronics Item 291;electronics;Shanghai;311;11;Cargill Inc.;USA;11;6;490;244;1609.13;03/12/2024;medium
+P00292;Furniture Item 292;furniture;London;440;176;IKEA Supply;Sweden;10;2;309;358;1894.82;24/07/2024;low
+P00293;Furniture Item 293;furniture;London;181;111;Nike Inc.;USA;10;5;500;344;1565.04;29/11/2024;medium
+P00294;Furniture Item 294;furniture;Paris;836;110;Cargill Inc.;USA;30;1;191;152;1186.49;12/07/2025;low
+P00295;Food Item 295;food;Toronto;27;196;Apple Inc.;USA;15;3;241;475;1387.21;25/03/2026;high
+P00296;Furniture Item 296;furniture;Casablanca;142;172;Nestlé S.A.;Switzerland;9;3;160;416;849.14;21/01/2025;medium
+P00297;Electronics Item 297;electronics;Casablanca;612;132;Adidas AG;Germany;18;6;303;495;1384.96;10/07/2025;medium
+P00298;Electronics Item 298;electronics;London;718;147;GlobalTech GmbH;Germany;30;10;309;105;1539.06;04/11/2025;high
+P00299;Clothing Item 299;clothing;Shanghai;662;166;Sony Corp.;Japan;21;9;27;435;666.54;26/03/2026;high
+P00300;Furniture Item 300;furniture;Berlin;10;35;Adidas AG;Germany;17;3;137;335;1163.13;12/08/2025;medium
+P00301;Food Item 301;food;Casablanca;383;110;Adidas AG;Germany;19;10;242;127;693.21;26/01/2024;high
+P00302;Furniture Item 302;furniture;Berlin;302;116;Nestlé S.A.;Switzerland;4;1;476;228;627.22;11/04/2025;low
+P00303;Food Item 303;food;Toronto;494;99;Nike Inc.;USA;15;1;248;213;139.01;15/02/2024;low
+P00304;Electronics Item 304;electronics;New York;869;97;Nestlé S.A.;Switzerland;22;1;336;429;491.61;27/06/2024;low
+P00305;Food Item 305;food;London;573;119;Sony Corp.;Japan;8;7;495;372;372.98;17/10/2025;high
+P00306;Furniture Item 306;furniture;Tokyo;29;198;Cargill Inc.;USA;15;3;319;269;780.73;22/12/2025;high
+P00307;Food Item 307;food;Dubai;285;190;GlobalTech GmbH;Germany;19;1;419;459;1744.6;10/07/2024;low
+P00308;Clothing Item 308;clothing;London;201;127;Nike Inc.;USA;22;4;63;320;1932.0;16/11/2024;medium
+P00309;Furniture Item 309;furniture;Sydney;401;160;Nike Inc.;USA;12;5;63;366;349.19;20/11/2025;medium
+P00310;Clothing Item 310;clothing;Sydney;604;31;GlobalTech GmbH;Germany;11;2;349;172;614.23;06/07/2024;low
+P00311;Clothing Item 311;clothing;Shanghai;523;109;Cargill Inc.;USA;5;9;219;246;848.96;13/05/2025;high
+P00312;Food Item 312;food;Toronto;170;135;IKEA Supply;Sweden;6;2;152;481;904.75;24/02/2024;low
+P00313;Clothing Item 313;clothing;New York;496;44;Adidas AG;Germany;18;6;104;384;992.46;02/12/2025;medium
+P00314;Furniture Item 314;furniture;Tokyo;727;123;Cargill Inc.;USA;3;2;255;65;1592.78;13/08/2024;low
+P00315;Clothing Item 315;clothing;New York;281;67;Nike Inc.;USA;6;4;280;339;1486.32;23/02/2026;medium
+P00316;Furniture Item 316;furniture;Toronto;523;38;Adidas AG;Germany;9;1;298;471;1981.83;09/07/2025;low
+P00317;Electronics Item 317;electronics;Casablanca;559;65;Samsung Electronics;South Korea;24;1;222;202;1750.25;03/02/2024;low
+P00318;Furniture Item 318;furniture;Paris;356;32;Samsung Electronics;South Korea;25;1;229;157;1622.35;25/08/2025;low
+P00319;Clothing Item 319;clothing;Sydney;647;119;Samsung Electronics;South Korea;5;9;89;466;417.85;01/03/2024;high
+P00320;Clothing Item 320;clothing;Toronto;287;162;Apple Inc.;USA;11;2;280;198;1147.61;10/06/2025;low
+P00321;Electronics Item 321;electronics;Shanghai;985;115;Nestlé S.A.;Switzerland;9;0;475;409;1732.83;12/09/2024;low
+P00322;Food Item 322;food;London;848;73;Nike Inc.;USA;13;10;394;122;1156.96;02/10/2024;high
+P00323;Furniture Item 323;furniture;Tokyo;462;29;Adidas AG;Germany;13;1;329;433;560.06;12/01/2025;low
+P00324;Furniture Item 324;furniture;Casablanca;335;158;Nike Inc.;USA;24;1;6;375;1329.97;01/01/2025;low
+P00325;Electronics Item 325;electronics;Toronto;407;65;Samsung Electronics;South Korea;27;6;500;303;540.73;17/10/2024;medium
+P00326;Clothing Item 326;clothing;Toronto;591;43;IKEA Supply;Sweden;26;7;294;399;1525.7;17/02/2024;high
+P00327;Electronics Item 327;electronics;Casablanca;16;41;Nike Inc.;USA;15;2;480;50;1983.72;14/03/2025;high
+P00328;Food Item 328;food;Shanghai;903;176;Apple Inc.;USA;28;2;159;97;1310.9;13/09/2024;low
+P00329;Electronics Item 329;electronics;London;680;176;Apple Inc.;USA;13;0;89;421;1400.39;27/08/2024;low
+P00330;Furniture Item 330;furniture;Berlin;720;34;GlobalTech GmbH;Germany;16;3;5;117;1189.39;15/06/2025;low
+P00331;Furniture Item 331;furniture;New York;8;188;Sony Corp.;Japan;28;1;180;405;268.69;13/03/2024;medium
+P00332;Food Item 332;food;Tokyo;91;197;IKEA Supply;Sweden;4;1;417;238;1762.57;20/05/2024;high
+P00333;Furniture Item 333;furniture;Shanghai;656;183;Cargill Inc.;USA;17;1;78;54;1222.59;17/06/2024;low
+P00334;Furniture Item 334;furniture;London;739;64;Sony Corp.;Japan;30;2;326;365;1374.7;10/08/2024;low
+P00335;Electronics Item 335;electronics;Berlin;143;41;Sony Corp.;Japan;12;6;306;211;1583.2;10/09/2024;medium
+P00336;Clothing Item 336;clothing;Berlin;254;151;Cargill Inc.;USA;24;9;312;195;1559.04;08/12/2025;high
+P00337;Electronics Item 337;electronics;Paris;210;142;Sony Corp.;Japan;7;8;315;201;1294.11;13/03/2026;high
+P00338;Food Item 338;food;Casablanca;395;38;Cargill Inc.;USA;21;7;128;86;1058.93;13/01/2024;high
+P00339;Clothing Item 339;clothing;London;135;109;IKEA Supply;Sweden;14;9;445;329;1367.47;20/02/2026;high
+P00340;Furniture Item 340;furniture;Berlin;17;160;Samsung Electronics;South Korea;9;0;39;70;1845.55;19/03/2026;medium
+P00341;Furniture Item 341;furniture;Toronto;293;170;Sony Corp.;Japan;25;8;369;266;1405.11;25/03/2024;high
+P00342;Food Item 342;food;Paris;85;89;Samsung Electronics;South Korea;30;8;45;463;314.98;30/11/2024;high
+P00343;Furniture Item 343;furniture;Sydney;649;176;Apple Inc.;USA;3;10;353;407;877.78;01/09/2024;high
+P00344;Electronics Item 344;electronics;Dubai;88;121;Cargill Inc.;USA;20;7;64;78;622.03;29/01/2026;high
+P00345;Food Item 345;food;Berlin;12;191;Nike Inc.;USA;6;0;75;227;1048.4;12/03/2026;medium
+P00346;Clothing Item 346;clothing;Shanghai;380;42;GlobalTech GmbH;Germany;24;4;388;444;1800.3;09/12/2024;medium
+P00347;Furniture Item 347;furniture;Paris;536;26;GlobalTech GmbH;Germany;21;9;139;304;913.12;03/01/2025;high
+P00348;Electronics Item 348;electronics;Casablanca;879;155;Apple Inc.;USA;6;5;90;445;210.3;10/08/2025;medium
+P00349;Electronics Item 349;electronics;Dubai;758;140;TechSource Inc.;USA;28;0;6;175;96.73;07/01/2025;low
+P00350;Furniture Item 350;furniture;Shanghai;183;19;Samsung Electronics;South Korea;14;10;288;214;500.29;07/01/2026;high
+P00351;Clothing Item 351;clothing;Paris;845;29;Adidas AG;Germany;4;5;297;394;1804.37;02/07/2024;medium
+P00352;Food Item 352;food;Toronto;47;112;Apple Inc.;USA;28;7;40;446;1690.47;01/12/2024;high
+P00353;Electronics Item 353;electronics;Toronto;467;12;Cargill Inc.;USA;10;3;193;451;611.3;29/09/2025;low
+P00354;Food Item 354;food;Casablanca;377;161;Adidas AG;Germany;24;3;257;439;1592.97;03/06/2024;low
+P00355;Electronics Item 355;electronics;Tokyo;24;69;TechSource Inc.;USA;21;5;282;221;7.92;04/11/2025;high
+P00356;Furniture Item 356;furniture;Paris;106;62;Nike Inc.;USA;14;3;276;80;1945.26;25/05/2024;low
+P00357;Clothing Item 357;clothing;Berlin;44;69;IKEA Supply;Sweden;14;8;464;284;1949.24;27/03/2024;high
+P00358;Electronics Item 358;electronics;Toronto;136;173;Cargill Inc.;USA;3;6;424;340;129.25;09/11/2025;high
+P00359;Food Item 359;food;Dubai;298;76;Sony Corp.;Japan;30;5;440;408;1664.64;30/11/2024;medium
+P00360;Clothing Item 360;clothing;Casablanca;278;69;Cargill Inc.;USA;5;3;43;105;315.04;17/06/2024;low
+P00361;Furniture Item 361;furniture;Casablanca;321;114;Samsung Electronics;South Korea;12;8;66;281;620.07;28/09/2024;high
+P00362;Electronics Item 362;electronics;Berlin;161;185;Samsung Electronics;South Korea;2;9;160;477;1713.86;31/05/2024;high
+P00363;Electronics Item 363;electronics;Dubai;991;101;Apple Inc.;USA;2;8;207;183;1641.08;27/06/2024;high
+P00364;Electronics Item 364;electronics;Tokyo;875;125;GlobalTech GmbH;Germany;8;8;289;286;208.31;23/03/2026;high
+P00365;Food Item 365;food;Berlin;12;25;Samsung Electronics;South Korea;5;3;430;471;804.16;03/12/2025;high
+P00366;Electronics Item 366;electronics;Sydney;600;76;GlobalTech GmbH;Germany;1;1;474;151;1805.48;30/03/2025;low
+P00367;Food Item 367;food;Berlin;926;94;TechSource Inc.;USA;15;0;67;136;1848.64;19/03/2025;low
+P00368;Furniture Item 368;furniture;Casablanca;30;107;IKEA Supply;Sweden;6;6;354;159;1817.07;08/10/2024;high
+P00369;Clothing Item 369;clothing;Casablanca;904;48;Cargill Inc.;USA;20;9;22;175;1296.32;25/05/2025;high
+P00370;Furniture Item 370;furniture;Toronto;490;25;Nestlé S.A.;Switzerland;13;4;49;264;402.92;27/03/2026;medium
+P00371;Food Item 371;food;Toronto;813;14;Adidas AG;Germany;16;5;200;450;971.94;02/08/2025;medium
+P00372;Clothing Item 372;clothing;Tokyo;276;56;Samsung Electronics;South Korea;20;5;18;65;1792.05;08/03/2026;medium
+P00373;Clothing Item 373;clothing;New York;828;130;Cargill Inc.;USA;25;5;276;169;1948.09;12/04/2024;medium
+P00374;Food Item 374;food;Dubai;272;146;Samsung Electronics;South Korea;25;0;422;344;1693.78;27/03/2026;low
+P00375;Furniture Item 375;furniture;London;957;54;IKEA Supply;Sweden;19;3;95;462;1477.52;02/01/2025;low
+P00376;Electronics Item 376;electronics;London;970;155;Samsung Electronics;South Korea;19;2;293;478;1976.07;19/05/2025;low
+P00377;Clothing Item 377;clothing;Shanghai;502;19;Cargill Inc.;USA;8;0;51;162;44.76;04/05/2025;low
+P00378;Electronics Item 378;electronics;London;939;167;Nestlé S.A.;Switzerland;11;2;108;460;1689.35;27/11/2024;low
+P00379;Electronics Item 379;electronics;New York;151;160;GlobalTech GmbH;Germany;25;2;365;483;1054.96;08/01/2025;high
+P00380;Electronics Item 380;electronics;London;721;179;IKEA Supply;Sweden;4;9;207;204;648.59;10/06/2024;high
+P00381;Furniture Item 381;furniture;Casablanca;664;91;Cargill Inc.;USA;23;8;94;452;716.87;12/11/2025;high
+P00382;Food Item 382;food;Tokyo;314;197;Nestlé S.A.;Switzerland;5;4;357;423;8.59;19/12/2025;medium
+P00383;Furniture Item 383;furniture;Sydney;33;56;Cargill Inc.;USA;30;5;313;163;1281.1;16/04/2024;high
+P00384;Furniture Item 384;furniture;Shanghai;339;200;IKEA Supply;Sweden;12;3;44;135;1274.19;31/03/2024;low
+P00385;Clothing Item 385;clothing;Casablanca;11;77;GlobalTech GmbH;Germany;23;3;112;229;517.03;20/04/2024;medium
+P00386;Electronics Item 386;electronics;New York;395;122;Sony Corp.;Japan;6;6;380;302;1764.13;25/12/2024;medium
+P00387;Furniture Item 387;furniture;Berlin;848;132;Samsung Electronics;South Korea;21;9;408;133;905.32;29/03/2026;high
+P00388;Electronics Item 388;electronics;Paris;20;91;IKEA Supply;Sweden;3;1;138;137;1776.42;13/06/2024;medium
+P00389;Electronics Item 389;electronics;Toronto;964;33;Nike Inc.;USA;20;9;178;410;66.83;31/10/2025;high
+P00390;Food Item 390;food;Sydney;911;121;IKEA Supply;Sweden;4;0;85;155;1948.92;23/02/2025;low
+P00391;Clothing Item 391;clothing;Paris;304;70;Cargill Inc.;USA;13;0;54;331;1680.51;06/06/2024;low
+P00392;Electronics Item 392;electronics;London;3;119;Cargill Inc.;USA;27;4;49;295;403.35;27/01/2024;medium
+P00393;Food Item 393;food;Shanghai;653;84;GlobalTech GmbH;Germany;28;7;46;207;1570.83;27/04/2025;high
+P00394;Furniture Item 394;furniture;Paris;93;174;IKEA Supply;Sweden;6;6;283;245;741.96;01/04/2025;high
+P00395;Electronics Item 395;electronics;Paris;450;129;Apple Inc.;USA;27;3;139;338;127.97;09/02/2026;low
+P00396;Electronics Item 396;electronics;Berlin;684;98;Cargill Inc.;USA;14;8;418;166;1109.44;31/01/2025;high
+P00397;Furniture Item 397;furniture;Toronto;703;131;Apple Inc.;USA;16;3;298;90;792.63;01/01/2026;low
+P00398;Electronics Item 398;electronics;Toronto;584;142;Cargill Inc.;USA;22;9;414;125;244.96;14/02/2026;high
+P00399;Furniture Item 399;furniture;Shanghai;971;52;TechSource Inc.;USA;5;3;113;266;161.35;30/11/2025;low
+P00400;Furniture Item 400;furniture;Dubai;842;170;IKEA Supply;Sweden;9;9;80;422;1828.78;09/03/2024;high
+P00401;Electronics Item 401;electronics;Tokyo;569;111;Apple Inc.;USA;28;5;287;316;919.02;13/01/2024;medium
+P00402;Furniture Item 402;furniture;Berlin;424;48;Cargill Inc.;USA;19;9;80;438;1929.84;12/04/2024;high
+P00403;Electronics Item 403;electronics;Sydney;798;35;Adidas AG;Germany;28;4;407;500;691.02;24/02/2025;medium
+P00404;Clothing Item 404;clothing;Tokyo;670;134;TechSource Inc.;USA;16;9;297;138;554.45;27/05/2024;high
+P00405;Furniture Item 405;furniture;New York;405;94;Nike Inc.;USA;2;3;358;187;1794.58;21/01/2024;low
+P00406;Clothing Item 406;clothing;Paris;318;81;GlobalTech GmbH;Germany;28;7;436;494;459.78;03/11/2024;high
+P00407;Furniture Item 407;furniture;London;275;196;GlobalTech GmbH;Germany;21;9;218;146;886.22;20/02/2025;high
+P00408;Furniture Item 408;furniture;Toronto;888;105;Nestlé S.A.;Switzerland;17;0;425;83;625.69;02/06/2025;low
+P00409;Furniture Item 409;furniture;Shanghai;799;144;Nestlé S.A.;Switzerland;1;9;455;148;1750.99;24/07/2024;high
+P00410;Electronics Item 410;electronics;Dubai;33;126;Samsung Electronics;South Korea;23;5;30;190;739.86;20/04/2025;medium
+P00411;Furniture Item 411;furniture;Berlin;697;17;Cargill Inc.;USA;16;5;128;278;359.28;30/04/2025;medium
+P00412;Clothing Item 412;clothing;London;167;76;TechSource Inc.;USA;10;1;388;247;104.05;08/08/2025;low
+P00413;Food Item 413;food;Dubai;662;67;Sony Corp.;Japan;9;3;351;312;45.0;10/03/2026;low
+P00414;Electronics Item 414;electronics;Casablanca;933;43;TechSource Inc.;USA;20;2;336;164;508.52;08/11/2024;low
+P00415;Clothing Item 415;clothing;Tokyo;916;106;Apple Inc.;USA;15;5;441;161;936.06;24/11/2025;medium
+P00416;Furniture Item 416;furniture;Sydney;104;11;IKEA Supply;Sweden;27;10;266;337;1296.45;15/09/2025;high
+P00417;Clothing Item 417;clothing;Paris;700;37;Apple Inc.;USA;11;1;251;377;653.65;10/10/2024;low
+P00418;Clothing Item 418;clothing;Paris;192;48;TechSource Inc.;USA;29;3;269;462;1715.34;06/09/2025;low
+P00419;Furniture Item 419;furniture;London;697;45;Nike Inc.;USA;21;0;374;201;522.56;04/03/2025;low
+P00420;Furniture Item 420;furniture;Tokyo;754;19;Samsung Electronics;South Korea;27;9;303;225;1454.47;15/08/2024;high
+P00421;Furniture Item 421;furniture;London;519;86;Adidas AG;Germany;27;2;437;142;591.1;27/04/2025;low
+P00422;Food Item 422;food;Paris;742;153;IKEA Supply;Sweden;22;2;395;385;183.15;29/12/2024;low
+P00423;Food Item 423;food;Paris;430;94;Apple Inc.;USA;19;4;195;287;1703.17;26/04/2025;medium
+P00424;Electronics Item 424;electronics;Sydney;594;168;Samsung Electronics;South Korea;29;7;41;306;244.03;28/11/2025;high
+P00425;Furniture Item 425;furniture;Toronto;305;115;Samsung Electronics;South Korea;5;2;32;225;821.34;06/08/2025;low
+P00426;Furniture Item 426;furniture;Shanghai;323;193;IKEA Supply;Sweden;16;1;97;373;1973.35;16/11/2024;low
+P00427;Electronics Item 427;electronics;New York;462;80;Nestlé S.A.;Switzerland;19;2;112;300;1571.5;09/03/2026;low
+P00428;Electronics Item 428;electronics;Shanghai;629;121;Sony Corp.;Japan;13;6;329;294;769.72;08/02/2024;medium
+P00429;Food Item 429;food;London;972;13;Adidas AG;Germany;25;5;461;147;40.74;05/01/2024;medium
+P00430;Food Item 430;food;Dubai;710;98;Sony Corp.;Japan;4;2;164;307;1179.4;20/06/2024;low
+P00431;Electronics Item 431;electronics;New York;305;84;Adidas AG;Germany;20;8;238;222;870.16;04/12/2025;high
+P00432;Food Item 432;food;London;923;135;Sony Corp.;Japan;6;3;188;59;460.69;14/01/2026;low
+P00433;Food Item 433;food;Dubai;751;15;GlobalTech GmbH;Germany;6;8;306;237;1423.66;22/03/2026;high
+P00434;Electronics Item 434;electronics;Tokyo;897;173;TechSource Inc.;USA;20;8;135;354;1989.39;08/11/2025;high
+P00435;Electronics Item 435;electronics;New York;49;186;Sony Corp.;Japan;15;6;64;113;1096.83;30/04/2025;medium
+P00436;Food Item 436;food;Dubai;711;185;Sony Corp.;Japan;10;0;327;388;206.45;16/06/2025;low
+P00437;Clothing Item 437;clothing;Sydney;620;189;GlobalTech GmbH;Germany;27;6;75;311;1438.94;30/04/2024;medium
+P00438;Clothing Item 438;clothing;Berlin;803;37;Samsung Electronics;South Korea;20;3;259;448;529.67;19/06/2025;low
+P00439;Food Item 439;food;London;720;114;Adidas AG;Germany;2;2;156;304;1821.16;05/12/2025;low
+P00440;Furniture Item 440;furniture;London;240;10;GlobalTech GmbH;Germany;3;10;11;477;1150.43;20/05/2025;high
+P00441;Food Item 441;food;Berlin;798;140;Apple Inc.;USA;29;1;43;379;466.16;30/10/2024;low
+P00442;Clothing Item 442;clothing;Casablanca;51;35;TechSource Inc.;USA;28;2;421;486;584.68;31/03/2026;low
+P00443;Clothing Item 443;clothing;Tokyo;756;39;Nestlé S.A.;Switzerland;1;0;53;389;1296.16;02/12/2024;low
+P00444;Clothing Item 444;clothing;Casablanca;978;169;IKEA Supply;Sweden;12;1;142;143;232.09;13/02/2025;low
+P00445;Furniture Item 445;furniture;Paris;855;108;Sony Corp.;Japan;26;7;358;382;1772.82;19/06/2024;high
+P00446;Electronics Item 446;electronics;Shanghai;712;195;Sony Corp.;Japan;4;2;35;352;967.94;05/08/2025;low
+P00447;Furniture Item 447;furniture;Shanghai;625;107;TechSource Inc.;USA;20;5;403;491;1370.51;14/01/2026;medium
+P00448;Food Item 448;food;Casablanca;942;134;TechSource Inc.;USA;15;6;62;82;526.92;17/11/2024;medium
+P00449;Electronics Item 449;electronics;Toronto;785;200;IKEA Supply;Sweden;8;9;300;315;1048.59;18/12/2025;high
+P00450;Electronics Item 450;electronics;Tokyo;677;196;Sony Corp.;Japan;12;7;132;126;1678.87;25/07/2025;high
+P00451;Electronics Item 451;electronics;New York;658;50;Nike Inc.;USA;28;7;263;495;334.98;08/02/2026;high
+P00452;Furniture Item 452;furniture;London;246;94;Samsung Electronics;South Korea;17;0;147;331;1288.42;16/02/2025;low
+P00453;Food Item 453;food;Berlin;470;123;GlobalTech GmbH;Germany;15;9;415;488;999.42;19/11/2024;high
+P00454;Electronics Item 454;electronics;Casablanca;763;177;Sony Corp.;Japan;13;1;14;68;1116.48;01/01/2024;low
+P00455;Electronics Item 455;electronics;Sydney;986;168;Adidas AG;Germany;29;4;331;337;417.67;18/11/2025;medium
+P00456;Furniture Item 456;furniture;London;372;23;Nike Inc.;USA;28;3;423;219;1122.5;26/09/2025;low
+P00457;Furniture Item 457;furniture;London;733;125;Samsung Electronics;South Korea;25;1;63;51;686.01;10/10/2025;low
+P00458;Clothing Item 458;clothing;Toronto;534;105;Nestlé S.A.;Switzerland;2;1;364;302;285.2;04/01/2026;low
+P00459;Furniture Item 459;furniture;Berlin;260;166;Sony Corp.;Japan;4;3;105;160;916.81;11/03/2026;low
+P00460;Food Item 460;food;London;110;116;Cargill Inc.;USA;27;10;28;113;1545.43;06/04/2025;high
+P00461;Furniture Item 461;furniture;Sydney;979;139;Adidas AG;Germany;1;7;73;426;101.9;19/03/2025;high
+P00462;Furniture Item 462;furniture;Toronto;799;55;Nestlé S.A.;Switzerland;6;9;359;103;777.87;06/09/2025;high
+P00463;Clothing Item 463;clothing;Toronto;902;108;Samsung Electronics;South Korea;30;9;219;190;798.75;17/12/2024;high
+P00464;Clothing Item 464;clothing;Casablanca;824;44;Adidas AG;Germany;20;6;75;203;1686.93;14/07/2025;medium
+P00465;Clothing Item 465;clothing;Toronto;647;65;Apple Inc.;USA;20;3;107;401;693.86;19/11/2025;low
+P00466;Food Item 466;food;Shanghai;515;148;GlobalTech GmbH;Germany;11;10;360;439;707.71;06/05/2025;high
+P00467;Furniture Item 467;furniture;Toronto;292;118;GlobalTech GmbH;Germany;17;0;418;62;764.84;24/02/2024;low
+P00468;Electronics Item 468;electronics;Dubai;273;51;Nestlé S.A.;Switzerland;9;10;151;479;128.76;14/03/2026;high
+P00469;Clothing Item 469;clothing;Dubai;771;148;Nike Inc.;USA;27;5;21;102;1234.14;22/11/2025;medium
+P00470;Food Item 470;food;Toronto;398;70;TechSource Inc.;USA;23;4;266;245;778.17;18/03/2026;medium
+P00471;Clothing Item 471;clothing;Toronto;55;13;Cargill Inc.;USA;7;4;385;494;1562.95;29/03/2025;medium
+P00472;Food Item 472;food;London;773;160;Samsung Electronics;South Korea;7;9;284;200;900.39;30/11/2025;high
+P00473;Electronics Item 473;electronics;Shanghai;985;54;Sony Corp.;Japan;4;8;381;70;859.87;23/07/2025;high
+P00474;Clothing Item 474;clothing;Shanghai;164;159;IKEA Supply;Sweden;1;4;438;288;1420.83;07/06/2024;medium
+P00475;Electronics Item 475;electronics;Shanghai;950;92;Cargill Inc.;USA;25;0;310;481;1325.47;17/05/2025;low
+P00476;Clothing Item 476;clothing;Berlin;802;191;Nestlé S.A.;Switzerland;8;8;167;316;141.01;01/06/2025;high
+P00477;Food Item 477;food;Tokyo;556;147;Samsung Electronics;South Korea;12;1;211;159;1328.35;05/12/2024;low
+P00478;Clothing Item 478;clothing;Paris;223;168;TechSource Inc.;USA;18;7;276;108;1339.53;01/04/2025;high
+P00479;Food Item 479;food;Sydney;940;169;IKEA Supply;Sweden;22;0;129;245;1832.29;26/04/2024;low
+P00480;Furniture Item 480;furniture;Paris;553;195;Adidas AG;Germany;30;0;149;470;1542.14;10/06/2025;low
+P00481;Furniture Item 481;furniture;Casablanca;44;85;IKEA Supply;Sweden;7;10;464;313;169.28;08/04/2024;high
+P00482;Food Item 482;food;Toronto;546;11;Samsung Electronics;South Korea;7;1;325;492;1372.38;16/04/2024;low
+P00483;Food Item 483;food;Toronto;848;189;GlobalTech GmbH;Germany;21;6;454;432;1373.66;25/01/2024;medium
+P00484;Furniture Item 484;furniture;London;38;32;Apple Inc.;USA;6;0;42;335;145.53;21/08/2024;low
+P00485;Clothing Item 485;clothing;Tokyo;397;125;IKEA Supply;Sweden;14;6;327;58;782.06;01/05/2024;medium
+P00486;Electronics Item 486;electronics;Sydney;64;200;GlobalTech GmbH;Germany;23;0;304;233;1856.46;18/04/2024;high
+P00487;Clothing Item 487;clothing;Paris;621;32;Sony Corp.;Japan;13;7;149;470;1323.14;30/04/2025;high
+P00488;Food Item 488;food;Toronto;225;44;Adidas AG;Germany;26;6;387;201;1920.47;27/05/2024;medium
+P00489;Clothing Item 489;clothing;London;980;12;GlobalTech GmbH;Germany;5;8;288;71;15.03;02/09/2025;high
+P00490;Furniture Item 490;furniture;Toronto;560;31;IKEA Supply;Sweden;24;3;161;158;828.25;23/10/2025;low
+P00491;Food Item 491;food;Shanghai;188;66;GlobalTech GmbH;Germany;7;4;320;142;1343.6;03/08/2025;medium
+P00492;Electronics Item 492;electronics;Toronto;472;175;GlobalTech GmbH;Germany;10;1;286;178;200.91;13/01/2026;low
+P00493;Furniture Item 493;furniture;London;365;42;GlobalTech GmbH;Germany;8;10;348;195;1240.93;17/07/2024;high
+P00494;Clothing Item 494;clothing;Casablanca;461;94;Cargill Inc.;USA;10;10;320;128;1133.28;08/01/2025;high
+P00495;Clothing Item 495;clothing;Tokyo;172;11;Samsung Electronics;South Korea;26;3;165;414;1480.93;22/03/2025;low
+P00496;Clothing Item 496;clothing;London;137;183;Nike Inc.;USA;29;5;380;286;893.49;04/03/2026;high
+P00497;Clothing Item 497;clothing;Casablanca;564;37;GlobalTech GmbH;Germany;20;10;94;480;564.83;23/05/2024;high
+P00498;Food Item 498;food;Paris;751;170;TechSource Inc.;USA;29;1;44;484;1016.82;01/02/2024;low
+P00499;Furniture Item 499;furniture;Sydney;217;19;Adidas AG;Germany;18;4;287;291;1309.55;01/06/2024;medium
+P00500;Clothing Item 500;clothing;Tokyo;228;160;Nike Inc.;USA;5;4;380;306;1023.27;10/02/2025;medium
+P00501;Clothing Item 501;clothing;Toronto;10;179;Nestlé S.A.;Switzerland;22;9;127;437;1030.7;01/04/2025;high
+P00502;Food Item 502;food;Shanghai;579;154;Nike Inc.;USA;24;2;342;233;85.64;18/02/2026;low
+P00503;Furniture Item 503;furniture;Dubai;64;77;Samsung Electronics;South Korea;2;3;194;315;1815.91;04/01/2025;medium
+P00504;Furniture Item 504;furniture;Casablanca;939;126;IKEA Supply;Sweden;2;0;456;102;1408.95;17/06/2025;low
+P00505;Clothing Item 505;clothing;Paris;592;149;Sony Corp.;Japan;13;2;296;237;1177.42;20/03/2024;low
+P00506;Clothing Item 506;clothing;Tokyo;996;67;IKEA Supply;Sweden;12;6;269;299;1586.35;10/09/2025;medium
+P00507;Electronics Item 507;electronics;Toronto;903;45;GlobalTech GmbH;Germany;8;2;230;313;1288.74;04/08/2024;low
+P00508;Food Item 508;food;Shanghai;161;102;Samsung Electronics;South Korea;22;1;313;262;1623.29;07/01/2026;low
+P00509;Electronics Item 509;electronics;Casablanca;691;132;Nestlé S.A.;Switzerland;19;3;250;381;1667.56;23/01/2024;low
+P00510;Food Item 510;food;New York;130;156;Adidas AG;Germany;5;2;308;70;1782.14;30/05/2024;high
+P00511;Electronics Item 511;electronics;Shanghai;264;56;Cargill Inc.;USA;20;6;269;376;42.15;06/01/2026;medium
+P00512;Clothing Item 512;clothing;Berlin;221;124;Nike Inc.;USA;28;7;315;137;442.63;24/02/2025;high
+P00513;Food Item 513;food;Sydney;840;56;Apple Inc.;USA;17;10;324;135;1449.75;16/12/2024;high
+P00514;Furniture Item 514;furniture;Sydney;604;27;Nestlé S.A.;Switzerland;13;6;122;105;38.04;19/06/2025;medium
+P00515;Furniture Item 515;furniture;Shanghai;620;34;Cargill Inc.;USA;29;7;95;357;82.88;13/03/2026;high
+P00516;Electronics Item 516;electronics;Berlin;493;178;TechSource Inc.;USA;18;9;71;446;1358.73;17/03/2025;high
+P00517;Furniture Item 517;furniture;London;895;21;Samsung Electronics;South Korea;14;8;362;460;966.84;26/02/2026;high
+P00518;Furniture Item 518;furniture;London;603;199;Sony Corp.;Japan;4;9;469;118;512.76;23/02/2026;high
+P00519;Food Item 519;food;Berlin;290;163;Apple Inc.;USA;14;8;453;146;15.91;31/01/2026;high
+P00520;Electronics Item 520;electronics;Sydney;535;40;Samsung Electronics;South Korea;13;0;271;402;1609.55;22/02/2025;low
+P00521;Clothing Item 521;clothing;Berlin;158;119;Apple Inc.;USA;9;9;338;487;1074.53;01/08/2025;high
+P00522;Clothing Item 522;clothing;Sydney;282;184;Adidas AG;Germany;14;3;208;451;1117.34;02/07/2024;low
+P00523;Clothing Item 523;clothing;Toronto;568;133;IKEA Supply;Sweden;19;4;134;446;1412.46;23/01/2026;medium
+P00524;Food Item 524;food;Berlin;765;68;Samsung Electronics;South Korea;4;2;233;310;804.12;12/12/2024;low
+P00525;Electronics Item 525;electronics;Shanghai;398;172;Nestlé S.A.;Switzerland;27;1;7;291;1852.09;21/03/2025;low
+P00526;Electronics Item 526;electronics;Berlin;269;66;TechSource Inc.;USA;20;1;194;420;771.73;14/02/2025;low
+P00527;Clothing Item 527;clothing;Sydney;58;54;TechSource Inc.;USA;15;7;332;153;1701.88;14/06/2025;high
+P00528;Clothing Item 528;clothing;Dubai;34;163;Samsung Electronics;South Korea;23;8;266;364;343.12;06/02/2024;high
+P00529;Clothing Item 529;clothing;Dubai;670;10;Sony Corp.;Japan;9;1;85;230;1340.98;19/02/2025;low
+P00530;Food Item 530;food;Toronto;15;198;GlobalTech GmbH;Germany;30;1;365;331;572.57;26/07/2025;high
+P00531;Clothing Item 531;clothing;London;986;80;Nike Inc.;USA;7;9;120;256;1151.94;24/09/2024;high
+P00532;Food Item 532;food;Tokyo;518;37;Apple Inc.;USA;17;1;291;224;1894.3;09/06/2025;low
+P00533;Clothing Item 533;clothing;Toronto;832;157;Cargill Inc.;USA;13;7;133;297;1541.08;14/02/2026;high
+P00534;Clothing Item 534;clothing;Casablanca;697;127;TechSource Inc.;USA;28;9;464;296;236.96;10/03/2024;high
+P00535;Furniture Item 535;furniture;Dubai;693;189;IKEA Supply;Sweden;14;5;122;314;1073.63;18/12/2025;medium
+P00536;Clothing Item 536;clothing;Dubai;294;33;IKEA Supply;Sweden;24;10;209;88;1111.33;01/07/2024;high
+P00537;Furniture Item 537;furniture;London;362;65;Nestlé S.A.;Switzerland;9;9;462;432;1367.8;13/07/2024;high
+P00538;Furniture Item 538;furniture;Dubai;240;198;Samsung Electronics;South Korea;7;4;128;153;1670.71;25/09/2025;medium
+P00539;Clothing Item 539;clothing;Shanghai;797;37;Nike Inc.;USA;22;1;66;364;18.21;08/07/2025;low
+P00540;Electronics Item 540;electronics;Casablanca;380;168;Cargill Inc.;USA;29;7;166;494;553.09;06/07/2024;high
+P00541;Clothing Item 541;clothing;Tokyo;227;157;Sony Corp.;Japan;17;0;70;294;1879.61;03/02/2024;low
+P00542;Clothing Item 542;clothing;Tokyo;881;185;GlobalTech GmbH;Germany;15;2;402;407;1038.82;19/11/2024;low
+P00543;Electronics Item 543;electronics;New York;690;63;IKEA Supply;Sweden;4;9;199;235;1227.49;22/09/2024;high
+P00544;Food Item 544;food;Toronto;269;70;IKEA Supply;Sweden;20;7;142;237;371.91;10/03/2025;high
+P00545;Food Item 545;food;Tokyo;717;105;Nike Inc.;USA;9;6;191;142;1144.96;12/08/2025;medium
+P00546;Food Item 546;food;Berlin;738;79;Sony Corp.;Japan;18;3;416;488;764.86;29/05/2024;low
+P00547;Food Item 547;food;Casablanca;825;12;Nestlé S.A.;Switzerland;16;6;95;484;1263.15;30/06/2025;medium
+P00548;Clothing Item 548;clothing;Casablanca;307;74;Sony Corp.;Japan;2;9;292;100;1382.63;02/03/2024;high
+P00549;Food Item 549;food;Paris;487;171;IKEA Supply;Sweden;24;7;54;183;725.12;27/07/2025;high
+P00550;Clothing Item 550;clothing;London;20;115;Cargill Inc.;USA;28;5;67;151;1155.82;27/10/2025;medium
+P00551;Food Item 551;food;Paris;363;93;Nike Inc.;USA;16;8;349;90;765.24;20/10/2024;high
+P00552;Furniture Item 552;furniture;Shanghai;889;52;Cargill Inc.;USA;14;5;332;342;812.52;14/03/2024;medium
+P00553;Electronics Item 553;electronics;Shanghai;351;68;Apple Inc.;USA;21;5;165;413;538.61;22/10/2025;medium
+P00554;Furniture Item 554;furniture;Paris;908;123;Cargill Inc.;USA;24;5;404;316;1931.22;27/02/2025;medium
+P00555;Food Item 555;food;Shanghai;874;15;Apple Inc.;USA;22;3;69;430;1402.89;22/03/2024;low
+P00556;Food Item 556;food;Shanghai;406;36;Nike Inc.;USA;30;1;53;330;112.38;28/02/2026;low
+P00557;Furniture Item 557;furniture;Toronto;783;31;Nestlé S.A.;Switzerland;20;4;58;93;1311.39;03/02/2025;medium
+P00558;Clothing Item 558;clothing;Dubai;253;198;Nestlé S.A.;Switzerland;21;7;150;117;1055.85;23/06/2024;high
+P00559;Electronics Item 559;electronics;New York;679;101;Nike Inc.;USA;28;5;445;289;1950.09;07/07/2025;medium
+P00560;Clothing Item 560;clothing;Toronto;455;44;Cargill Inc.;USA;6;8;490;355;915.8;05/02/2026;high
+P00561;Furniture Item 561;furniture;Toronto;655;173;IKEA Supply;Sweden;30;4;278;296;1081.64;01/04/2024;medium
+P00562;Furniture Item 562;furniture;Paris;374;115;TechSource Inc.;USA;10;2;138;50;1049.02;15/02/2026;low
+P00563;Food Item 563;food;London;293;130;Nike Inc.;USA;23;0;278;436;956.75;10/01/2024;low
+P00564;Furniture Item 564;furniture;Paris;611;69;IKEA Supply;Sweden;18;0;412;146;826.41;28/07/2025;low
+P00565;Furniture Item 565;furniture;Tokyo;255;51;Sony Corp.;Japan;13;10;371;162;529.65;08/03/2025;high
+P00566;Food Item 566;food;Toronto;782;166;Apple Inc.;USA;9;10;418;382;1487.14;02/10/2024;high
+P00567;Furniture Item 567;furniture;Dubai;873;27;GlobalTech GmbH;Germany;10;2;98;376;913.41;08/04/2025;low
+P00568;Clothing Item 568;clothing;Sydney;503;58;TechSource Inc.;USA;5;0;169;323;49.15;14/04/2024;low
+P00569;Clothing Item 569;clothing;Paris;128;193;GlobalTech GmbH;Germany;8;0;229;127;34.38;10/08/2024;high
+P00570;Clothing Item 570;clothing;Tokyo;319;137;TechSource Inc.;USA;23;7;195;219;165.05;07/02/2026;high
+P00571;Food Item 571;food;New York;272;110;Nestlé S.A.;Switzerland;16;8;41;148;1791.92;13/09/2024;high
+P00572;Furniture Item 572;furniture;New York;124;192;Nike Inc.;USA;25;6;132;176;1476.55;04/02/2024;medium
+P00573;Food Item 573;food;Casablanca;752;34;Nike Inc.;USA;7;10;271;249;1364.48;15/11/2024;high
+P00574;Clothing Item 574;clothing;Shanghai;644;196;GlobalTech GmbH;Germany;17;8;26;179;965.05;01/11/2024;high
+P00575;Food Item 575;food;London;908;23;GlobalTech GmbH;Germany;7;10;447;170;1267.65;28/11/2024;high
+P00576;Electronics Item 576;electronics;Shanghai;813;80;Samsung Electronics;South Korea;13;1;304;54;1937.83;18/08/2025;low
+P00577;Furniture Item 577;furniture;Sydney;158;105;Nestlé S.A.;Switzerland;8;1;399;305;187.35;25/09/2025;low
+P00578;Clothing Item 578;clothing;New York;61;101;Adidas AG;Germany;23;2;335;455;219.25;14/05/2025;high
+P00579;Food Item 579;food;London;571;175;Nike Inc.;USA;26;5;392;425;389.97;06/12/2025;medium
+P00580;Furniture Item 580;furniture;London;741;44;Nike Inc.;USA;16;0;133;336;592.96;14/12/2025;low
+P00581;Furniture Item 581;furniture;Dubai;580;57;Nike Inc.;USA;11;5;283;190;1735.99;05/09/2025;medium
+P00582;Food Item 582;food;Berlin;543;49;Apple Inc.;USA;27;4;235;327;737.39;01/01/2024;medium
+P00583;Furniture Item 583;furniture;Shanghai;904;14;Cargill Inc.;USA;25;5;322;172;644.78;05/03/2024;medium
+P00584;Furniture Item 584;furniture;Dubai;536;184;Cargill Inc.;USA;5;8;259;194;648.59;18/10/2025;high
+P00585;Clothing Item 585;clothing;Berlin;98;143;Nestlé S.A.;Switzerland;2;1;342;141;1747.62;25/07/2024;high
+P00586;Electronics Item 586;electronics;Casablanca;196;35;Sony Corp.;Japan;21;9;21;386;982.37;30/09/2025;high
+P00587;Clothing Item 587;clothing;New York;375;66;Samsung Electronics;South Korea;1;1;315;385;985.35;22/03/2024;low
+P00588;Furniture Item 588;furniture;New York;369;152;IKEA Supply;Sweden;27;6;385;456;1418.33;23/09/2025;medium
+P00589;Clothing Item 589;clothing;Toronto;41;197;Samsung Electronics;South Korea;3;4;41;315;198.75;12/01/2026;medium
+P00590;Food Item 590;food;Toronto;394;58;Samsung Electronics;South Korea;22;8;103;341;1252.52;02/07/2024;high
+P00591;Furniture Item 591;furniture;Berlin;784;173;Nike Inc.;USA;22;5;300;409;1332.16;16/04/2024;medium
+P00592;Food Item 592;food;Shanghai;563;112;Nestlé S.A.;Switzerland;22;5;263;323;1996.87;29/03/2025;medium
+P00593;Clothing Item 593;clothing;London;563;93;Sony Corp.;Japan;14;5;437;472;1453.11;15/09/2025;medium
+P00594;Food Item 594;food;Sydney;558;64;Apple Inc.;USA;30;8;197;234;1923.5;03/04/2025;high
+P00595;Furniture Item 595;furniture;New York;743;18;Adidas AG;Germany;1;9;150;119;1986.86;05/11/2024;high
+P00596;Electronics Item 596;electronics;Paris;227;64;Apple Inc.;USA;1;5;443;333;1024.99;07/08/2025;medium
+P00597;Food Item 597;food;Berlin;38;127;Apple Inc.;USA;5;2;187;237;1779.8;12/09/2024;medium
+P00598;Food Item 598;food;Paris;830;86;Cargill Inc.;USA;13;9;52;161;1469.86;10/01/2026;high
+P00599;Clothing Item 599;clothing;Casablanca;177;134;GlobalTech GmbH;Germany;27;9;427;354;1286.3;08/02/2024;high
+P00600;Furniture Item 600;furniture;Berlin;798;24;Sony Corp.;Japan;12;5;476;263;1860.84;03/05/2024;medium
+P00601;Food Item 601;food;Sydney;950;12;TechSource Inc.;USA;13;10;329;206;1051.14;22/11/2024;high
+P00602;Food Item 602;food;London;514;188;Sony Corp.;Japan;2;2;118;278;1506.92;12/08/2025;low
+P00603;Electronics Item 603;electronics;Dubai;442;84;Nestlé S.A.;Switzerland;5;6;407;222;169.68;08/08/2025;medium
+P00604;Electronics Item 604;electronics;Toronto;408;77;Sony Corp.;Japan;17;6;48;446;1397.25;19/02/2026;medium
+P00605;Food Item 605;food;Casablanca;572;60;Cargill Inc.;USA;21;6;254;150;1124.53;23/01/2026;medium
+P00606;Food Item 606;food;Dubai;73;78;Cargill Inc.;USA;11;6;402;95;229.5;27/02/2025;high
+P00607;Furniture Item 607;furniture;London;356;58;TechSource Inc.;USA;20;5;169;444;613.11;24/12/2024;medium
+P00608;Furniture Item 608;furniture;Sydney;149;122;IKEA Supply;Sweden;7;3;27;129;1516.68;28/03/2024;low
+P00609;Electronics Item 609;electronics;New York;248;168;Apple Inc.;USA;28;2;479;57;689.83;23/04/2024;low
+P00610;Clothing Item 610;clothing;Casablanca;482;15;Adidas AG;Germany;24;3;174;158;411.58;19/06/2025;low
+P00611;Clothing Item 611;clothing;Toronto;494;169;TechSource Inc.;USA;23;2;378;242;1168.09;10/11/2025;low
+P00612;Electronics Item 612;electronics;Paris;174;25;Cargill Inc.;USA;26;3;150;188;110.91;01/11/2025;low
+P00613;Electronics Item 613;electronics;Berlin;397;179;IKEA Supply;Sweden;28;10;143;492;220.24;26/10/2024;high
+P00614;Furniture Item 614;furniture;Dubai;389;140;IKEA Supply;Sweden;29;1;368;298;1734.21;28/06/2025;low
+P00615;Electronics Item 615;electronics;Shanghai;203;138;TechSource Inc.;USA;18;7;499;70;498.55;26/06/2025;high
+P00616;Clothing Item 616;clothing;London;501;110;IKEA Supply;Sweden;1;2;386;400;707.07;02/10/2025;low
+P00617;Clothing Item 617;clothing;Dubai;513;80;Apple Inc.;USA;21;0;420;499;777.41;31/01/2024;low
+P00618;Clothing Item 618;clothing;Dubai;155;97;Nestlé S.A.;Switzerland;22;6;464;94;1461.13;17/06/2025;medium
+P00619;Food Item 619;food;Tokyo;246;156;Cargill Inc.;USA;10;6;83;218;901.09;14/05/2024;medium
+P00620;Food Item 620;food;Shanghai;594;148;Nestlé S.A.;Switzerland;28;3;355;208;1378.62;20/06/2025;low
+P00621;Food Item 621;food;Tokyo;930;47;Nestlé S.A.;Switzerland;30;9;340;212;140.29;29/06/2025;high
+P00622;Electronics Item 622;electronics;Shanghai;325;47;IKEA Supply;Sweden;25;0;377;500;1945.93;25/02/2025;low
+P00623;Clothing Item 623;clothing;Casablanca;763;173;Samsung Electronics;South Korea;5;4;482;104;267.43;27/01/2024;medium
+P00624;Clothing Item 624;clothing;Sydney;580;166;Samsung Electronics;South Korea;8;9;123;401;57.04;22/03/2024;high
+P00625;Furniture Item 625;furniture;Shanghai;514;164;Nestlé S.A.;Switzerland;12;10;245;486;777.98;30/04/2025;high
+P00626;Food Item 626;food;Shanghai;197;67;TechSource Inc.;USA;25;6;21;188;1900.65;15/08/2024;medium
+P00627;Food Item 627;food;Dubai;67;55;Cargill Inc.;USA;28;7;479;300;1377.29;13/04/2025;high
+P00628;Food Item 628;food;Tokyo;414;20;IKEA Supply;Sweden;24;6;316;251;1224.95;30/01/2026;medium
+P00629;Electronics Item 629;electronics;Toronto;111;125;Samsung Electronics;South Korea;29;0;238;315;1078.05;22/01/2026;high
+P00630;Electronics Item 630;electronics;Toronto;396;142;Samsung Electronics;South Korea;2;10;396;199;881.91;07/11/2024;high
+P00631;Clothing Item 631;clothing;Casablanca;170;118;TechSource Inc.;USA;30;9;155;403;1036.35;25/05/2024;high
+P00632;Furniture Item 632;furniture;Casablanca;92;194;Cargill Inc.;USA;6;1;261;406;1095.08;06/02/2025;high
+P00633;Furniture Item 633;furniture;London;461;16;Samsung Electronics;South Korea;19;7;96;282;184.91;27/11/2024;high
+P00634;Food Item 634;food;Berlin;93;39;IKEA Supply;Sweden;21;7;366;93;1050.02;28/01/2025;high
+P00635;Food Item 635;food;Tokyo;563;107;IKEA Supply;Sweden;30;2;27;339;1743.25;02/06/2024;low
+P00636;Food Item 636;food;Shanghai;183;192;Apple Inc.;USA;10;6;31;423;1538.42;01/04/2025;medium
+P00637;Clothing Item 637;clothing;Shanghai;120;43;Cargill Inc.;USA;1;3;496;441;509.96;14/04/2025;low
+P00638;Furniture Item 638;furniture;Casablanca;556;11;Samsung Electronics;South Korea;8;7;316;351;1320.64;09/04/2025;high
+P00639;Furniture Item 639;furniture;Casablanca;81;163;Adidas AG;Germany;8;0;312;192;1241.43;24/07/2025;high
+P00640;Food Item 640;food;New York;189;47;TechSource Inc.;USA;12;10;33;124;1708.39;14/11/2025;high
+P00641;Clothing Item 641;clothing;London;942;32;Nestlé S.A.;Switzerland;14;1;30;132;1345.82;17/09/2025;low
+P00642;Food Item 642;food;Casablanca;767;158;Apple Inc.;USA;3;0;189;215;740.3;23/01/2025;low
+P00643;Electronics Item 643;electronics;Tokyo;863;150;Nestlé S.A.;Switzerland;16;4;38;112;1390.77;08/10/2024;medium
+P00644;Clothing Item 644;clothing;Toronto;423;144;TechSource Inc.;USA;20;3;112;105;1144.88;06/10/2025;low
+P00645;Electronics Item 645;electronics;Casablanca;741;186;Cargill Inc.;USA;14;4;314;484;636.39;22/06/2025;medium
+P00646;Clothing Item 646;clothing;Shanghai;629;154;Nike Inc.;USA;24;8;259;302;1616.92;16/09/2025;high
+P00647;Food Item 647;food;Paris;198;10;GlobalTech GmbH;Germany;15;0;65;427;1696.9;29/03/2026;low
+P00648;Furniture Item 648;furniture;Tokyo;46;95;Samsung Electronics;South Korea;26;8;184;55;1283.03;07/12/2025;high
+P00649;Clothing Item 649;clothing;Paris;809;27;Adidas AG;Germany;17;4;162;215;1535.23;26/04/2024;medium
+P00650;Clothing Item 650;clothing;London;405;195;Nestlé S.A.;Switzerland;1;9;296;149;664.38;12/12/2024;high
+P00651;Furniture Item 651;furniture;Casablanca;816;19;Nestlé S.A.;Switzerland;16;2;335;371;923.93;03/07/2025;low
+P00652;Clothing Item 652;clothing;Casablanca;802;115;Adidas AG;Germany;27;0;480;203;1132.06;25/11/2025;low
+P00653;Clothing Item 653;clothing;Toronto;548;14;IKEA Supply;Sweden;22;9;111;459;1832.79;25/03/2026;high
+P00654;Clothing Item 654;clothing;Berlin;992;48;Sony Corp.;Japan;11;0;148;370;1070.87;18/06/2024;low
+P00655;Furniture Item 655;furniture;Shanghai;609;39;IKEA Supply;Sweden;23;4;447;413;68.1;27/02/2025;medium
+P00656;Electronics Item 656;electronics;Casablanca;898;70;Apple Inc.;USA;27;7;195;160;1052.58;28/06/2024;high
+P00657;Electronics Item 657;electronics;London;803;19;GlobalTech GmbH;Germany;30;3;403;277;1014.46;29/03/2026;low
+P00658;Furniture Item 658;furniture;Toronto;157;58;Adidas AG;Germany;24;7;179;208;1552.19;26/05/2024;high
+P00659;Electronics Item 659;electronics;Toronto;692;43;Sony Corp.;Japan;15;0;110;415;1730.3;28/04/2024;low
+P00660;Electronics Item 660;electronics;Paris;954;21;GlobalTech GmbH;Germany;28;9;356;220;936.42;17/02/2024;high
+P00661;Electronics Item 661;electronics;Toronto;784;178;Cargill Inc.;USA;1;4;386;438;627.73;02/08/2024;medium
+P00662;Clothing Item 662;clothing;Dubai;197;83;Nike Inc.;USA;11;8;146;393;239.71;01/06/2024;high
+P00663;Food Item 663;food;Paris;117;13;Adidas AG;Germany;18;9;495;102;417.12;24/12/2024;high
+P00664;Clothing Item 664;clothing;Paris;144;190;Samsung Electronics;South Korea;19;4;416;137;147.13;19/09/2025;high
+P00665;Clothing Item 665;clothing;Toronto;454;22;TechSource Inc.;USA;16;0;71;104;770.28;29/03/2024;low
+P00666;Furniture Item 666;furniture;Tokyo;183;190;Nike Inc.;USA;21;9;310;365;714.47;06/12/2024;high
+P00667;Food Item 667;food;Toronto;80;129;Nike Inc.;USA;3;2;295;99;913.89;01/12/2025;high
+P00668;Furniture Item 668;furniture;Casablanca;237;67;IKEA Supply;Sweden;9;9;78;250;370.79;12/11/2025;high
+P00669;Clothing Item 669;clothing;London;464;134;GlobalTech GmbH;Germany;16;1;20;229;959.91;23/06/2024;low
+P00670;Clothing Item 670;clothing;London;618;157;Sony Corp.;Japan;4;8;70;468;1429.97;19/04/2024;high
+P00671;Clothing Item 671;clothing;Toronto;665;28;Nike Inc.;USA;18;4;410;255;1183.12;01/09/2024;medium
+P00672;Food Item 672;food;Toronto;162;133;Samsung Electronics;South Korea;11;1;201;466;1389.65;17/03/2025;low
+P00673;Furniture Item 673;furniture;Sydney;806;97;GlobalTech GmbH;Germany;6;3;283;428;1862.07;10/08/2025;low
+P00674;Furniture Item 674;furniture;Berlin;606;162;GlobalTech GmbH;Germany;18;5;242;470;893.21;11/11/2024;medium
+P00675;Furniture Item 675;furniture;Berlin;612;37;Sony Corp.;Japan;25;9;355;217;991.12;07/11/2025;high
+P00676;Electronics Item 676;electronics;Berlin;222;45;TechSource Inc.;USA;29;9;459;437;297.72;01/06/2024;high
+P00677;Furniture Item 677;furniture;Toronto;298;109;Samsung Electronics;South Korea;15;9;320;155;1364.63;20/11/2024;high
+P00678;Clothing Item 678;clothing;Sydney;813;183;IKEA Supply;Sweden;23;6;160;95;1167.54;18/09/2025;medium
+P00679;Furniture Item 679;furniture;Shanghai;872;85;Adidas AG;Germany;29;5;36;77;6.68;27/07/2025;medium
+P00680;Clothing Item 680;clothing;Berlin;881;82;Sony Corp.;Japan;8;0;448;409;1182.38;02/10/2025;low
+P00681;Clothing Item 681;clothing;Tokyo;415;107;Nestlé S.A.;Switzerland;7;8;227;293;282.44;22/07/2025;high
+P00682;Furniture Item 682;furniture;London;860;116;Nestlé S.A.;Switzerland;28;4;83;118;28.15;25/10/2025;medium
+P00683;Electronics Item 683;electronics;Shanghai;738;134;GlobalTech GmbH;Germany;5;6;341;120;1286.27;01/03/2025;medium
+P00684;Furniture Item 684;furniture;Sydney;952;118;Adidas AG;Germany;15;2;324;267;1106.34;05/04/2025;low
+P00685;Furniture Item 685;furniture;London;231;57;Cargill Inc.;USA;1;9;222;305;1694.37;30/08/2024;high
+P00686;Clothing Item 686;clothing;Tokyo;948;149;TechSource Inc.;USA;2;5;300;340;969.12;12/01/2025;medium
+P00687;Electronics Item 687;electronics;Sydney;493;186;Adidas AG;Germany;24;2;45;489;1967.42;08/03/2026;low
+P00688;Clothing Item 688;clothing;Casablanca;529;30;Samsung Electronics;South Korea;3;9;272;291;1263.17;10/11/2025;high
+P00689;Electronics Item 689;electronics;Toronto;817;158;IKEA Supply;Sweden;2;9;164;323;1558.16;25/04/2025;high
+P00690;Furniture Item 690;furniture;Toronto;927;130;IKEA Supply;Sweden;14;5;298;458;592.76;20/06/2024;medium
+P00691;Electronics Item 691;electronics;Sydney;767;87;TechSource Inc.;USA;9;9;377;372;948.96;22/06/2024;high
+P00692;Electronics Item 692;electronics;Paris;828;198;Nike Inc.;USA;10;0;324;92;258.01;19/03/2024;low
+P00693;Clothing Item 693;clothing;Paris;135;167;Apple Inc.;USA;28;4;148;57;1484.15;10/09/2025;medium
+P00694;Food Item 694;food;Sydney;756;48;Nestlé S.A.;Switzerland;12;7;342;183;1566.14;29/08/2024;high
+P00695;Furniture Item 695;furniture;Shanghai;818;145;GlobalTech GmbH;Germany;11;0;446;124;1193.11;06/06/2024;low
+P00696;Furniture Item 696;furniture;Tokyo;788;108;Nestlé S.A.;Switzerland;15;10;126;157;1157.63;19/12/2024;high
+P00697;Electronics Item 697;electronics;Paris;773;39;Sony Corp.;Japan;15;2;31;293;606.23;03/02/2026;low
+P00698;Food Item 698;food;Tokyo;699;190;Nestlé S.A.;Switzerland;9;7;204;321;1741.2;13/01/2024;high
+P00699;Clothing Item 699;clothing;Casablanca;391;183;TechSource Inc.;USA;22;8;166;99;1835.84;14/10/2025;high
+P00700;Clothing Item 700;clothing;Tokyo;625;176;Apple Inc.;USA;11;4;444;186;1605.62;18/09/2024;medium
+P00701;Furniture Item 701;furniture;Casablanca;791;182;Cargill Inc.;USA;24;3;388;444;393.88;11/12/2024;low
+P00702;Food Item 702;food;London;560;12;GlobalTech GmbH;Germany;27;0;349;56;825.44;21/06/2025;low
+P00703;Electronics Item 703;electronics;Casablanca;359;66;Samsung Electronics;South Korea;9;4;376;67;52.28;04/04/2024;medium
+P00704;Electronics Item 704;electronics;Sydney;672;65;GlobalTech GmbH;Germany;21;9;491;412;1915.8;29/03/2024;high
+P00705;Food Item 705;food;Tokyo;672;175;GlobalTech GmbH;Germany;29;2;294;406;372.6;28/10/2024;low
+P00706;Furniture Item 706;furniture;Berlin;654;126;Sony Corp.;Japan;25;4;477;404;1807.27;27/02/2026;medium
+P00707;Clothing Item 707;clothing;Paris;165;28;Sony Corp.;Japan;13;0;146;220;1991.94;21/09/2024;low
+P00708;Clothing Item 708;clothing;Shanghai;451;27;Sony Corp.;Japan;20;3;256;141;1292.74;21/04/2024;low
+P00709;Food Item 709;food;Toronto;787;120;GlobalTech GmbH;Germany;21;9;116;276;1432.22;15/04/2024;high
+P00710;Electronics Item 710;electronics;Berlin;72;156;Nike Inc.;USA;25;4;377;59;1793.54;01/06/2024;high
+P00711;Electronics Item 711;electronics;New York;680;109;IKEA Supply;Sweden;23;2;141;250;1151.41;11/06/2025;low
+P00712;Furniture Item 712;furniture;Casablanca;446;113;Samsung Electronics;South Korea;18;1;437;51;771.93;06/12/2025;low
+P00713;Furniture Item 713;furniture;Berlin;580;147;Apple Inc.;USA;11;5;483;255;115.11;24/10/2025;medium
+P00714;Electronics Item 714;electronics;London;547;97;Apple Inc.;USA;25;7;46;381;410.23;21/07/2025;high
+P00715;Electronics Item 715;electronics;Tokyo;676;58;GlobalTech GmbH;Germany;29;6;158;372;1379.24;13/05/2025;medium
+P00716;Electronics Item 716;electronics;Casablanca;752;58;TechSource Inc.;USA;7;0;76;418;1992.79;01/09/2024;low
+P00717;Furniture Item 717;furniture;Tokyo;64;148;Adidas AG;Germany;16;4;334;477;1624.5;17/01/2024;high
+P00718;Electronics Item 718;electronics;London;57;96;GlobalTech GmbH;Germany;13;0;408;158;1615.17;14/11/2025;high
+P00719;Furniture Item 719;furniture;Toronto;152;199;GlobalTech GmbH;Germany;30;3;301;68;1472.24;15/05/2025;high
+P00720;Electronics Item 720;electronics;Casablanca;928;168;Nestlé S.A.;Switzerland;23;3;28;57;348.64;21/02/2024;low
+P00721;Clothing Item 721;clothing;Berlin;467;166;GlobalTech GmbH;Germany;3;9;92;108;996.8;29/03/2026;high
+P00722;Food Item 722;food;Berlin;823;61;Sony Corp.;Japan;26;5;223;216;246.0;01/12/2025;medium
+P00723;Food Item 723;food;London;856;64;Nestlé S.A.;Switzerland;19;0;396;221;131.13;07/10/2024;low
+P00724;Food Item 724;food;Tokyo;172;188;Nike Inc.;USA;6;8;194;174;1851.72;11/02/2024;high
+P00725;Food Item 725;food;Berlin;810;171;Nestlé S.A.;Switzerland;25;6;318;58;1759.86;23/03/2024;medium
+P00726;Electronics Item 726;electronics;New York;183;32;Apple Inc.;USA;19;10;366;263;1388.54;22/03/2026;high
+P00727;Furniture Item 727;furniture;Shanghai;211;46;Nike Inc.;USA;17;4;332;260;482.31;27/06/2024;medium
+P00728;Electronics Item 728;electronics;Sydney;184;193;Apple Inc.;USA;3;9;260;228;840.48;25/07/2025;high
+P00729;Food Item 729;food;Dubai;120;145;Adidas AG;Germany;12;9;53;309;442.46;27/02/2026;high
+P00730;Food Item 730;food;Paris;54;59;Nike Inc.;USA;22;2;62;304;356.77;17/11/2025;medium
+P00731;Electronics Item 731;electronics;New York;660;103;Apple Inc.;USA;14;3;150;221;1235.55;15/02/2026;low
+P00732;Furniture Item 732;furniture;New York;106;199;Nestlé S.A.;Switzerland;6;8;31;452;62.99;11/06/2025;high
+P00733;Electronics Item 733;electronics;Berlin;916;70;Cargill Inc.;USA;19;7;374;216;841.04;04/02/2026;high
+P00734;Clothing Item 734;clothing;Dubai;797;38;Samsung Electronics;South Korea;4;3;171;427;828.13;23/07/2024;low
+P00735;Furniture Item 735;furniture;Dubai;75;130;Sony Corp.;Japan;2;7;304;124;436.25;16/09/2025;high
+P00736;Furniture Item 736;furniture;Shanghai;396;105;Samsung Electronics;South Korea;24;7;74;373;720.39;03/10/2024;high
+P00737;Food Item 737;food;London;130;18;Apple Inc.;USA;2;9;359;119;226.66;21/04/2025;high
+P00738;Furniture Item 738;furniture;Tokyo;175;97;Nestlé S.A.;Switzerland;20;4;117;454;1590.16;18/09/2025;medium
+P00739;Food Item 739;food;Sydney;993;151;Sony Corp.;Japan;3;3;442;488;1045.93;09/08/2024;low
+P00740;Furniture Item 740;furniture;Casablanca;285;13;Samsung Electronics;South Korea;24;6;378;176;657.96;16/08/2025;medium
+P00741;Food Item 741;food;Sydney;968;48;TechSource Inc.;USA;29;9;472;263;1960.47;11/02/2024;high
+P00742;Furniture Item 742;furniture;Toronto;34;118;GlobalTech GmbH;Germany;16;6;276;281;993.09;26/03/2024;high
+P00743;Electronics Item 743;electronics;Tokyo;972;65;Samsung Electronics;South Korea;10;5;72;381;1997.91;17/01/2024;medium
+P00744;Furniture Item 744;furniture;Paris;165;190;Cargill Inc.;USA;24;9;240;62;1952.96;19/04/2025;high
+P00745;Food Item 745;food;Tokyo;189;104;TechSource Inc.;USA;23;7;325;490;1256.47;29/01/2025;high
+P00746;Clothing Item 746;clothing;Toronto;33;85;Cargill Inc.;USA;23;4;223;327;1152.58;31/07/2024;high
+P00747;Electronics Item 747;electronics;Sydney;901;95;IKEA Supply;Sweden;17;0;381;76;226.38;09/01/2025;low
+P00748;Furniture Item 748;furniture;Sydney;41;103;Adidas AG;Germany;21;2;192;410;138.68;27/12/2025;medium
+P00749;Food Item 749;food;Shanghai;342;71;Nike Inc.;USA;21;1;281;427;1878.6;17/08/2025;low
+P00750;Food Item 750;food;Dubai;328;100;Sony Corp.;Japan;17;4;464;191;113.65;16/01/2025;medium
+P00751;Clothing Item 751;clothing;Casablanca;497;138;Adidas AG;Germany;16;1;274;397;1651.63;26/10/2024;low
+P00752;Furniture Item 752;furniture;Sydney;376;182;Nike Inc.;USA;7;1;489;94;164.94;02/07/2024;low
+P00753;Clothing Item 753;clothing;Berlin;111;52;Nestlé S.A.;Switzerland;23;1;146;304;305.24;28/07/2024;low
+P00754;Electronics Item 754;electronics;Paris;426;184;IKEA Supply;Sweden;16;2;282;265;890.5;22/10/2025;low
+P00755;Electronics Item 755;electronics;Paris;193;26;Adidas AG;Germany;27;3;16;380;675.08;15/08/2025;low
+P00756;Clothing Item 756;clothing;London;497;161;Adidas AG;Germany;27;8;345;277;918.72;03/08/2025;high
+P00757;Food Item 757;food;Paris;175;76;Apple Inc.;USA;12;7;121;444;1691.8;31/05/2024;high
+P00758;Clothing Item 758;clothing;Paris;466;52;Adidas AG;Germany;23;2;321;196;368.65;28/06/2024;low
+P00759;Food Item 759;food;Shanghai;243;39;Nestlé S.A.;Switzerland;19;5;26;275;524.51;07/07/2024;medium
+P00760;Food Item 760;food;Toronto;724;18;Nestlé S.A.;Switzerland;12;5;345;240;899.62;15/06/2024;medium
+P00761;Clothing Item 761;clothing;Berlin;942;16;Nestlé S.A.;Switzerland;25;7;212;284;1855.98;08/06/2024;high
+P00762;Electronics Item 762;electronics;Toronto;999;139;Apple Inc.;USA;23;10;174;292;1792.48;11/02/2026;high
+P00763;Food Item 763;food;Sydney;746;123;Nike Inc.;USA;24;1;178;70;283.15;18/07/2025;low
+P00764;Electronics Item 764;electronics;Paris;25;112;IKEA Supply;Sweden;15;3;321;97;656.1;14/09/2025;high
+P00765;Food Item 765;food;Sydney;539;66;TechSource Inc.;USA;7;4;405;92;1079.13;01/04/2025;medium
+P00766;Electronics Item 766;electronics;Toronto;403;59;Cargill Inc.;USA;20;5;256;311;1887.09;13/11/2025;medium
+P00767;Clothing Item 767;clothing;Tokyo;151;193;Sony Corp.;Japan;12;6;442;240;29.32;19/12/2024;high
+P00768;Clothing Item 768;clothing;Paris;1000;124;Samsung Electronics;South Korea;3;8;452;422;1776.17;29/01/2026;high
+P00769;Furniture Item 769;furniture;Casablanca;295;51;Sony Corp.;Japan;24;6;417;121;1671.85;04/09/2025;medium
+P00770;Electronics Item 770;electronics;Shanghai;212;87;GlobalTech GmbH;Germany;11;8;248;352;1513.45;31/03/2024;high
+P00771;Electronics Item 771;electronics;Tokyo;654;79;Nike Inc.;USA;18;2;217;413;1137.99;20/05/2024;low
+P00772;Food Item 772;food;Shanghai;852;107;TechSource Inc.;USA;16;8;153;471;1653.37;22/08/2025;high
+P00773;Clothing Item 773;clothing;Casablanca;572;199;TechSource Inc.;USA;1;3;242;128;529.04;17/10/2025;low
+P00774;Furniture Item 774;furniture;Berlin;669;180;Nestlé S.A.;Switzerland;14;4;462;301;1814.05;22/10/2025;medium
+P00775;Food Item 775;food;New York;122;80;IKEA Supply;Sweden;20;1;257;347;963.57;22/03/2025;low
+P00776;Clothing Item 776;clothing;Casablanca;997;187;Adidas AG;Germany;12;1;423;425;1152.65;22/09/2024;low
+P00777;Food Item 777;food;Sydney;59;47;Nestlé S.A.;Switzerland;29;7;168;232;330.8;06/10/2024;high
+P00778;Clothing Item 778;clothing;Tokyo;651;101;Adidas AG;Germany;10;4;29;377;1872.95;10/06/2025;medium
+P00779;Food Item 779;food;Shanghai;783;34;IKEA Supply;Sweden;18;2;311;496;635.84;02/12/2025;low
+P00780;Clothing Item 780;clothing;Paris;701;188;Adidas AG;Germany;4;5;357;346;706.5;27/05/2024;medium
+P00781;Electronics Item 781;electronics;Shanghai;530;82;IKEA Supply;Sweden;14;7;195;133;209.32;07/06/2024;high
+P00782;Food Item 782;food;Dubai;814;153;Adidas AG;Germany;28;8;319;414;1104.47;13/02/2026;high
+P00783;Electronics Item 783;electronics;Tokyo;471;29;TechSource Inc.;USA;30;2;64;295;699.68;08/12/2025;low
+P00784;Clothing Item 784;clothing;Shanghai;836;123;IKEA Supply;Sweden;17;9;460;138;1421.24;30/01/2024;high
+P00785;Electronics Item 785;electronics;Dubai;131;187;Nestlé S.A.;Switzerland;10;3;77;157;264.79;21/03/2024;medium
+P00786;Furniture Item 786;furniture;Berlin;79;14;Sony Corp.;Japan;25;7;401;71;396.72;03/02/2024;high
+P00787;Electronics Item 787;electronics;Casablanca;121;74;TechSource Inc.;USA;10;1;27;436;197.52;06/05/2024;low
+P00788;Food Item 788;food;Sydney;922;61;TechSource Inc.;USA;12;10;99;96;295.39;03/02/2026;high
+P00789;Clothing Item 789;clothing;Sydney;356;100;Cargill Inc.;USA;25;8;87;173;1012.29;10/03/2024;high
+P00790;Electronics Item 790;electronics;Sydney;781;13;Samsung Electronics;South Korea;23;3;275;194;347.69;11/02/2026;low
+P00791;Electronics Item 791;electronics;Berlin;946;64;Nike Inc.;USA;28;8;476;237;1397.78;08/07/2024;high
+P00792;Furniture Item 792;furniture;Berlin;185;100;Adidas AG;Germany;7;6;199;166;818.12;18/02/2026;medium
+P00793;Clothing Item 793;clothing;Berlin;477;38;IKEA Supply;Sweden;16;2;271;410;580.1;09/01/2026;low
+P00794;Electronics Item 794;electronics;Berlin;335;136;Nike Inc.;USA;10;6;64;357;1473.67;04/12/2025;medium
+P00795;Furniture Item 795;furniture;Dubai;567;114;GlobalTech GmbH;Germany;7;6;153;480;1605.86;26/11/2025;medium
+P00796;Clothing Item 796;clothing;Shanghai;13;182;Sony Corp.;Japan;4;10;256;274;1047.71;23/11/2025;high
+P00797;Electronics Item 797;electronics;Berlin;146;111;Nestlé S.A.;Switzerland;4;9;210;83;730.6;22/07/2024;high
+P00798;Clothing Item 798;clothing;Dubai;609;113;Sony Corp.;Japan;27;3;67;421;1000.72;22/02/2026;low
+P00799;Clothing Item 799;clothing;Tokyo;364;131;Nike Inc.;USA;13;9;346;311;561.39;25/02/2026;high
+P00800;Furniture Item 800;furniture;Berlin;125;74;Nestlé S.A.;Switzerland;8;7;255;65;203.71;24/02/2024;high
+P00801;Electronics Item 801;electronics;Casablanca;694;16;IKEA Supply;Sweden;20;6;96;128;608.99;30/09/2025;medium
+P00802;Electronics Item 802;electronics;Berlin;676;143;Nike Inc.;USA;26;7;397;153;590.66;24/05/2025;high
+P00803;Furniture Item 803;furniture;Toronto;267;148;TechSource Inc.;USA;18;8;180;441;68.04;16/03/2025;high
+P00804;Electronics Item 804;electronics;Tokyo;460;90;Nike Inc.;USA;15;6;441;68;70.56;24/07/2025;medium
+P00805;Clothing Item 805;clothing;Shanghai;503;120;Sony Corp.;Japan;23;4;73;299;1529.2;05/08/2025;medium
+P00806;Furniture Item 806;furniture;Toronto;701;148;Adidas AG;Germany;16;7;297;487;316.84;27/02/2024;high
+P00807;Furniture Item 807;furniture;Paris;506;161;IKEA Supply;Sweden;22;9;198;442;1955.68;24/11/2024;high
+P00808;Electronics Item 808;electronics;New York;604;21;Cargill Inc.;USA;12;5;70;63;1531.56;02/10/2025;medium
+P00809;Clothing Item 809;clothing;Tokyo;99;119;IKEA Supply;Sweden;14;5;181;78;1324.17;10/09/2024;medium
+P00810;Food Item 810;food;Paris;606;31;Apple Inc.;USA;28;1;471;108;678.5;21/01/2024;low
+P00811;Clothing Item 811;clothing;New York;471;178;Adidas AG;Germany;19;6;447;265;536.9;13/12/2025;medium
+P00812;Furniture Item 812;furniture;Sydney;22;91;IKEA Supply;Sweden;13;9;198;343;199.96;15/05/2025;high
+P00813;Electronics Item 813;electronics;Dubai;344;137;Nestlé S.A.;Switzerland;11;10;262;364;602.54;22/03/2025;high
+P00814;Food Item 814;food;Casablanca;650;29;Apple Inc.;USA;7;8;435;185;99.83;10/08/2025;high
+P00815;Furniture Item 815;furniture;Dubai;639;200;Cargill Inc.;USA;23;1;495;98;1185.77;06/10/2024;low
+P00816;Electronics Item 816;electronics;Sydney;820;145;IKEA Supply;Sweden;7;6;248;457;157.94;05/11/2024;medium
+P00817;Clothing Item 817;clothing;Tokyo;679;148;Sony Corp.;Japan;14;3;165;178;1251.8;09/04/2025;low
+P00818;Food Item 818;food;New York;642;190;Nike Inc.;USA;19;2;269;159;1323.31;30/01/2026;low
+P00819;Furniture Item 819;furniture;Paris;959;173;Sony Corp.;Japan;28;9;277;339;1454.6;02/03/2024;high
+P00820;Food Item 820;food;London;473;47;Apple Inc.;USA;24;2;128;482;873.6;22/11/2024;low
+P00821;Electronics Item 821;electronics;Dubai;866;115;Nestlé S.A.;Switzerland;21;4;141;181;1375.28;29/08/2024;medium
+P00822;Furniture Item 822;furniture;Dubai;116;48;Apple Inc.;USA;8;0;103;287;973.34;22/03/2025;low
+P00823;Furniture Item 823;furniture;New York;206;50;Apple Inc.;USA;1;2;144;454;1608.06;05/11/2025;low
+P00824;Food Item 824;food;New York;986;194;GlobalTech GmbH;Germany;2;0;253;210;1205.19;06/03/2024;low
+P00825;Furniture Item 825;furniture;London;687;178;Nestlé S.A.;Switzerland;13;1;458;170;228.31;22/01/2026;low
+P00826;Electronics Item 826;electronics;Toronto;680;158;Nike Inc.;USA;9;8;491;96;479.96;05/05/2024;high
+P00827;Clothing Item 827;clothing;London;852;159;Samsung Electronics;South Korea;26;6;382;266;439.93;19/04/2024;medium
+P00828;Food Item 828;food;Dubai;993;80;Cargill Inc.;USA;9;6;230;78;983.27;18/01/2025;medium
+P00829;Electronics Item 829;electronics;London;558;118;Apple Inc.;USA;8;10;248;500;1569.63;28/05/2024;high
+P00830;Clothing Item 830;clothing;Casablanca;732;104;Cargill Inc.;USA;1;4;425;67;1683.74;09/11/2025;medium
+P00831;Electronics Item 831;electronics;Dubai;259;151;IKEA Supply;Sweden;21;4;201;465;1372.07;01/07/2025;medium
+P00832;Food Item 832;food;Casablanca;397;12;Apple Inc.;USA;30;6;470;204;185.05;13/02/2026;medium
+P00833;Food Item 833;food;Paris;215;51;IKEA Supply;Sweden;21;7;473;500;1625.43;21/10/2025;high
+P00834;Furniture Item 834;furniture;New York;280;30;Sony Corp.;Japan;16;7;426;480;668.78;08/03/2025;high
+P00835;Electronics Item 835;electronics;Shanghai;715;76;Sony Corp.;Japan;12;1;264;358;1459.82;14/07/2025;low
+P00836;Clothing Item 836;clothing;Casablanca;711;17;Nestlé S.A.;Switzerland;21;0;395;372;889.59;18/10/2025;low
+P00837;Food Item 837;food;New York;410;61;Cargill Inc.;USA;11;4;326;92;226.1;12/09/2024;medium
+P00838;Food Item 838;food;Sydney;702;115;Nike Inc.;USA;15;5;410;497;1471.67;23/09/2024;medium
+P00839;Food Item 839;food;Sydney;846;93;GlobalTech GmbH;Germany;7;4;414;262;738.36;06/02/2025;medium
+P00840;Furniture Item 840;furniture;Sydney;229;15;Adidas AG;Germany;30;0;490;381;1225.95;22/08/2024;low
+P00841;Electronics Item 841;electronics;Casablanca;203;77;Sony Corp.;Japan;2;2;364;366;860.66;23/09/2024;low
+P00842;Food Item 842;food;Berlin;981;104;TechSource Inc.;USA;4;9;92;417;1054.05;02/03/2026;high
+P00843;Furniture Item 843;furniture;Casablanca;121;67;Apple Inc.;USA;7;3;370;197;1494.15;26/01/2025;low
+P00844;Food Item 844;food;Tokyo;876;62;Apple Inc.;USA;27;3;312;422;1355.99;04/03/2025;low
+P00845;Food Item 845;food;Tokyo;811;47;Samsung Electronics;South Korea;9;4;19;366;904.7;11/09/2024;medium
+P00846;Clothing Item 846;clothing;Sydney;700;175;Nike Inc.;USA;1;1;239;118;1743.53;10/12/2025;low
+P00847;Furniture Item 847;furniture;Dubai;730;108;Cargill Inc.;USA;24;6;367;181;150.75;24/07/2025;medium
+P00848;Electronics Item 848;electronics;New York;340;70;Cargill Inc.;USA;20;5;246;413;1497.74;16/02/2024;medium
+P00849;Electronics Item 849;electronics;Paris;516;168;IKEA Supply;Sweden;13;4;200;117;1936.28;26/07/2025;medium
+P00850;Electronics Item 850;electronics;Sydney;183;76;IKEA Supply;Sweden;16;8;91;499;938.83;01/04/2024;high
+P00851;Clothing Item 851;clothing;Toronto;443;46;TechSource Inc.;USA;11;1;138;115;1000.93;14/10/2024;low
+P00852;Clothing Item 852;clothing;Tokyo;289;77;IKEA Supply;Sweden;17;4;318;273;1785.88;19/11/2024;medium
+P00853;Furniture Item 853;furniture;Shanghai;569;178;Samsung Electronics;South Korea;2;7;330;126;113.86;06/07/2024;high
+P00854;Electronics Item 854;electronics;Casablanca;266;51;GlobalTech GmbH;Germany;14;7;366;303;86.38;31/12/2024;high
+P00855;Furniture Item 855;furniture;Casablanca;504;38;IKEA Supply;Sweden;4;2;438;97;411.45;17/10/2024;low
+P00856;Food Item 856;food;Shanghai;767;140;Cargill Inc.;USA;19;4;426;158;1169.18;05/01/2024;medium
+P00857;Food Item 857;food;Tokyo;942;29;GlobalTech GmbH;Germany;22;7;131;218;56.79;28/11/2025;high
+P00858;Electronics Item 858;electronics;Tokyo;382;161;IKEA Supply;Sweden;27;1;480;128;62.6;16/04/2025;low
+P00859;Furniture Item 859;furniture;Casablanca;643;78;IKEA Supply;Sweden;1;10;309;72;1314.06;08/04/2025;high
+P00860;Clothing Item 860;clothing;Sydney;132;64;Apple Inc.;USA;26;0;446;215;1597.3;31/01/2026;low
+P00861;Electronics Item 861;electronics;Toronto;974;164;Apple Inc.;USA;13;1;200;141;483.96;28/02/2026;low
+P00862;Furniture Item 862;furniture;Berlin;21;63;Sony Corp.;Japan;25;6;88;195;1296.1;31/10/2025;medium
+P00863;Food Item 863;food;Berlin;305;135;Apple Inc.;USA;24;6;415;400;1209.01;02/01/2025;medium
+P00864;Electronics Item 864;electronics;London;524;61;Sony Corp.;Japan;29;7;255;293;540.62;06/09/2025;high
+P00865;Furniture Item 865;furniture;Berlin;774;118;Nestlé S.A.;Switzerland;20;5;420;272;1263.22;05/04/2024;medium
+P00866;Electronics Item 866;electronics;Toronto;349;128;Nestlé S.A.;Switzerland;21;3;351;303;1056.92;24/10/2025;low
+P00867;Electronics Item 867;electronics;Paris;479;121;Nestlé S.A.;Switzerland;10;7;45;115;1370.21;03/11/2024;high
+P00868;Food Item 868;food;Toronto;437;85;GlobalTech GmbH;Germany;18;0;296;73;1029.26;06/06/2025;low
+P00869;Furniture Item 869;furniture;Tokyo;96;128;Apple Inc.;USA;27;9;343;231;513.45;24/03/2024;high
+P00870;Electronics Item 870;electronics;Berlin;758;179;Nestlé S.A.;Switzerland;26;2;241;481;788.95;26/03/2024;low
+P00871;Furniture Item 871;furniture;Paris;321;160;Nike Inc.;USA;25;7;375;369;1616.63;15/12/2024;high
+P00872;Food Item 872;food;Dubai;189;30;GlobalTech GmbH;Germany;9;9;387;272;1071.08;06/01/2024;high
+P00873;Furniture Item 873;furniture;Berlin;13;53;Sony Corp.;Japan;15;7;340;494;1317.15;01/02/2026;high
+P00874;Furniture Item 874;furniture;Paris;633;167;Sony Corp.;Japan;23;10;189;461;608.8;08/05/2024;high
+P00875;Food Item 875;food;New York;195;38;Samsung Electronics;South Korea;23;0;422;489;58.5;07/05/2025;low
+P00876;Food Item 876;food;Dubai;446;170;GlobalTech GmbH;Germany;7;8;444;204;1540.59;31/05/2024;high
+P00877;Furniture Item 877;furniture;Tokyo;22;39;Nike Inc.;USA;24;2;90;298;945.62;05/04/2025;medium
+P00878;Food Item 878;food;Dubai;301;155;IKEA Supply;Sweden;2;6;429;54;209.81;31/12/2025;medium
+P00879;Furniture Item 879;furniture;Tokyo;868;136;Adidas AG;Germany;20;9;382;198;78.85;13/02/2025;high
+P00880;Furniture Item 880;furniture;Toronto;605;195;Nike Inc.;USA;29;10;318;168;1430.01;24/06/2025;high
+P00881;Electronics Item 881;electronics;Tokyo;590;90;Sony Corp.;Japan;9;1;288;292;238.3;29/09/2025;low
+P00882;Clothing Item 882;clothing;Casablanca;714;121;Samsung Electronics;South Korea;10;2;15;290;690.98;25/08/2024;low
+P00883;Food Item 883;food;Sydney;930;185;Nike Inc.;USA;28;9;178;117;1766.93;10/01/2026;high
+P00884;Furniture Item 884;furniture;Tokyo;853;182;Nike Inc.;USA;26;5;339;459;1942.03;14/06/2024;medium
+P00885;Food Item 885;food;Paris;707;32;Nestlé S.A.;Switzerland;5;7;346;152;316.85;18/05/2025;high
+P00886;Electronics Item 886;electronics;Tokyo;965;136;Adidas AG;Germany;7;3;160;74;1998.53;02/01/2025;low
+P00887;Clothing Item 887;clothing;London;693;50;GlobalTech GmbH;Germany;2;8;94;222;864.09;24/09/2025;high
+P00888;Food Item 888;food;Berlin;575;67;IKEA Supply;Sweden;11;4;254;443;98.12;24/07/2025;medium
+P00889;Clothing Item 889;clothing;Shanghai;873;186;GlobalTech GmbH;Germany;20;8;452;411;105.59;24/03/2025;high
+P00890;Furniture Item 890;furniture;Berlin;998;37;GlobalTech GmbH;Germany;20;9;405;471;1127.13;03/06/2025;high
+P00891;Electronics Item 891;electronics;Shanghai;645;40;IKEA Supply;Sweden;30;3;450;130;1458.06;26/12/2025;low
+P00892;Furniture Item 892;furniture;Toronto;510;197;IKEA Supply;Sweden;5;1;450;221;1639.23;05/05/2024;low
+P00893;Food Item 893;food;Casablanca;992;116;Nike Inc.;USA;8;0;398;224;577.08;24/06/2024;low
+P00894;Electronics Item 894;electronics;Paris;381;193;Samsung Electronics;South Korea;12;6;391;127;1507.65;26/06/2025;medium
+P00895;Furniture Item 895;furniture;Dubai;141;119;Nike Inc.;USA;29;6;216;486;1034.73;29/11/2025;medium
+P00896;Clothing Item 896;clothing;New York;453;47;Adidas AG;Germany;23;0;399;85;174.13;18/11/2024;low
+P00897;Furniture Item 897;furniture;Shanghai;444;25;Nestlé S.A.;Switzerland;22;0;206;344;120.33;08/10/2025;low
+P00898;Clothing Item 898;clothing;Tokyo;411;184;Apple Inc.;USA;28;8;363;419;1486.68;18/12/2024;high
+P00899;Electronics Item 899;electronics;Paris;921;145;Sony Corp.;Japan;23;2;317;278;1289.54;11/07/2025;low
+P00900;Furniture Item 900;furniture;London;908;176;Apple Inc.;USA;29;3;212;93;78.76;08/12/2024;low
+P00901;Furniture Item 901;furniture;Shanghai;532;148;Adidas AG;Germany;3;3;150;332;627.94;14/12/2024;low
+P00902;Food Item 902;food;New York;28;148;Apple Inc.;USA;8;4;308;421;848.38;01/06/2025;high
+P00903;Electronics Item 903;electronics;New York;861;105;IKEA Supply;Sweden;17;10;137;113;100.23;28/10/2025;high
+P00904;Electronics Item 904;electronics;Casablanca;305;156;IKEA Supply;Sweden;15;0;382;170;1611.75;18/08/2025;low
+P00905;Food Item 905;food;London;306;82;Nestlé S.A.;Switzerland;22;9;346;415;758.44;25/01/2026;high
+P00906;Food Item 906;food;Berlin;335;142;IKEA Supply;Sweden;27;3;303;282;200.49;29/12/2025;low
+P00907;Furniture Item 907;furniture;Tokyo;83;33;Nestlé S.A.;Switzerland;29;6;36;293;433.49;20/03/2024;medium
+P00908;Clothing Item 908;clothing;Toronto;412;160;Sony Corp.;Japan;25;8;291;496;531.07;25/05/2025;high
+P00909;Furniture Item 909;furniture;Casablanca;705;135;Nestlé S.A.;Switzerland;27;6;379;123;1014.04;11/05/2025;medium
+P00910;Furniture Item 910;furniture;Shanghai;991;190;Samsung Electronics;South Korea;4;8;267;283;949.34;03/02/2026;high
+P00911;Food Item 911;food;Toronto;378;40;GlobalTech GmbH;Germany;4;6;313;239;1145.67;11/02/2024;medium
+P00912;Food Item 912;food;Berlin;380;88;Nike Inc.;USA;10;4;196;64;1583.45;25/05/2024;medium
+P00913;Furniture Item 913;furniture;New York;959;88;Nestlé S.A.;Switzerland;7;4;460;469;1480.62;03/01/2024;medium
+P00914;Electronics Item 914;electronics;Toronto;357;27;Nike Inc.;USA;14;0;450;343;622.86;08/04/2025;low
+P00915;Clothing Item 915;clothing;Tokyo;486;194;Nestlé S.A.;Switzerland;5;9;431;308;1274.74;18/02/2026;high
+P00916;Furniture Item 916;furniture;Casablanca;152;196;Cargill Inc.;USA;26;1;171;390;1249.06;31/01/2025;medium
+P00917;Food Item 917;food;Tokyo;347;148;Nike Inc.;USA;29;10;28;426;558.36;31/03/2024;high
+P00918;Food Item 918;food;New York;585;171;GlobalTech GmbH;Germany;18;4;412;379;1120.91;16/07/2024;medium
+P00919;Electronics Item 919;electronics;Sydney;534;58;TechSource Inc.;USA;17;7;389;111;1318.22;28/06/2025;high
+P00920;Food Item 920;food;New York;281;62;GlobalTech GmbH;Germany;15;9;130;463;1069.42;24/11/2024;high
+P00921;Furniture Item 921;furniture;Sydney;46;135;Sony Corp.;Japan;11;0;446;142;832.8;24/06/2025;high
+P00922;Clothing Item 922;clothing;Tokyo;263;33;Nestlé S.A.;Switzerland;18;1;63;196;292.35;18/09/2024;low
+P00923;Electronics Item 923;electronics;Shanghai;314;114;Cargill Inc.;USA;2;2;352;216;367.01;31/12/2025;low
+P00924;Electronics Item 924;electronics;Paris;399;35;IKEA Supply;Sweden;14;2;168;182;754.15;03/05/2024;low
+P00925;Electronics Item 925;electronics;Dubai;245;162;Adidas AG;Germany;16;3;305;435;1011.32;27/04/2024;low
+P00926;Clothing Item 926;clothing;New York;325;128;Nike Inc.;USA;3;6;288;64;817.95;27/08/2024;medium
+P00927;Electronics Item 927;electronics;Paris;567;160;Adidas AG;Germany;8;1;350;383;1571.5;07/11/2024;low
+P00928;Furniture Item 928;furniture;Casablanca;85;172;Nestlé S.A.;Switzerland;26;3;261;241;1083.18;21/06/2024;high
+P00929;Food Item 929;food;Toronto;975;118;TechSource Inc.;USA;15;8;497;50;1626.22;27/09/2025;high
+P00930;Clothing Item 930;clothing;Shanghai;0;25;Cargill Inc.;USA;9;7;482;178;1679.78;24/01/2025;high
+P00931;Clothing Item 931;clothing;Dubai;599;140;Adidas AG;Germany;6;0;149;338;144.52;01/04/2024;low
+P00932;Furniture Item 932;furniture;Berlin;850;45;Sony Corp.;Japan;9;8;376;157;1222.84;01/04/2026;high
+P00933;Clothing Item 933;clothing;London;650;76;Samsung Electronics;South Korea;9;7;390;389;1966.13;15/12/2024;high
+P00934;Food Item 934;food;Casablanca;982;163;Nestlé S.A.;Switzerland;30;0;173;380;1844.9;15/09/2025;low
+P00935;Furniture Item 935;furniture;New York;923;12;Adidas AG;Germany;14;2;349;406;1408.08;19/02/2026;low
+P00936;Furniture Item 936;furniture;Toronto;83;176;TechSource Inc.;USA;18;1;338;476;1633.03;31/03/2025;high
+P00937;Electronics Item 937;electronics;London;995;106;Sony Corp.;Japan;12;9;428;140;1679.1;14/12/2025;high
+P00938;Electronics Item 938;electronics;Berlin;473;104;TechSource Inc.;USA;15;3;484;163;1487.57;15/02/2026;low
+P00939;Clothing Item 939;clothing;London;196;33;Apple Inc.;USA;21;9;422;463;1437.03;27/08/2024;high
+P00940;Furniture Item 940;furniture;London;37;81;TechSource Inc.;USA;7;9;257;150;1968.61;15/10/2025;high
+P00941;Furniture Item 941;furniture;Berlin;890;81;Nestlé S.A.;Switzerland;16;8;296;332;391.57;26/01/2026;high
+P00942;Food Item 942;food;Berlin;602;42;Apple Inc.;USA;5;1;386;341;1711.68;19/06/2025;low
+P00943;Clothing Item 943;clothing;Dubai;868;183;Cargill Inc.;USA;18;10;16;179;1362.96;09/04/2025;high
+P00944;Electronics Item 944;electronics;Tokyo;656;182;IKEA Supply;Sweden;2;10;487;271;1689.46;20/02/2025;high
+P00945;Clothing Item 945;clothing;Berlin;696;142;Adidas AG;Germany;12;7;243;438;91.71;08/01/2026;high
+P00946;Food Item 946;food;New York;284;117;TechSource Inc.;USA;11;7;277;250;393.24;24/03/2024;high
+P00947;Electronics Item 947;electronics;Dubai;706;118;Samsung Electronics;South Korea;30;1;495;150;333.14;14/11/2024;low
+P00948;Electronics Item 948;electronics;Berlin;28;132;IKEA Supply;Sweden;19;0;226;480;504.57;20/04/2024;high
+P00949;Furniture Item 949;furniture;Dubai;981;97;IKEA Supply;Sweden;27;0;431;316;1589.25;15/03/2024;low
+P00950;Furniture Item 950;furniture;Berlin;640;124;TechSource Inc.;USA;3;1;301;67;757.9;11/12/2025;low
+P00951;Electronics Item 951;electronics;Shanghai;63;123;Sony Corp.;Japan;20;4;33;83;208.15;27/02/2024;medium
+P00952;Electronics Item 952;electronics;Paris;870;107;Sony Corp.;Japan;20;1;210;169;1729.84;17/03/2026;low
+P00953;Electronics Item 953;electronics;Casablanca;393;128;Cargill Inc.;USA;29;6;412;367;207.05;28/10/2025;medium
+P00954;Electronics Item 954;electronics;Casablanca;529;94;GlobalTech GmbH;Germany;4;3;305;56;1192.37;10/03/2024;low
+P00955;Food Item 955;food;Sydney;129;173;Sony Corp.;Japan;12;4;265;296;1450.62;31/03/2025;high
+P00956;Food Item 956;food;Dubai;140;21;Cargill Inc.;USA;10;2;35;273;1028.69;29/10/2025;low
+P00957;Clothing Item 957;clothing;Paris;597;148;Nike Inc.;USA;5;2;402;208;1208.64;25/10/2024;low
+P00958;Clothing Item 958;clothing;New York;530;160;TechSource Inc.;USA;5;10;341;171;1016.68;26/07/2025;high
+P00959;Electronics Item 959;electronics;Tokyo;352;60;Samsung Electronics;South Korea;30;10;107;452;141.47;12/07/2024;high
+P00960;Furniture Item 960;furniture;Casablanca;614;187;IKEA Supply;Sweden;19;9;174;365;602.77;02/12/2024;high
+P00961;Food Item 961;food;Berlin;465;20;TechSource Inc.;USA;30;3;258;377;449.94;23/08/2024;low
+P00962;Furniture Item 962;furniture;Sydney;218;71;Sony Corp.;Japan;26;5;251;155;803.62;07/01/2024;medium
+P00963;Clothing Item 963;clothing;New York;75;101;Nestlé S.A.;Switzerland;4;8;20;198;883.61;08/10/2025;high
+P00964;Clothing Item 964;clothing;New York;998;17;Nestlé S.A.;Switzerland;10;3;106;162;1771.34;06/01/2026;low
+P00965;Food Item 965;food;London;867;151;TechSource Inc.;USA;7;2;130;140;1686.55;13/04/2024;low
+P00966;Electronics Item 966;electronics;Shanghai;388;177;Samsung Electronics;South Korea;11;1;408;206;915.13;13/01/2025;low
+P00967;Clothing Item 967;clothing;Shanghai;963;144;Sony Corp.;Japan;29;9;414;499;1423.33;01/05/2024;high
+P00968;Food Item 968;food;Shanghai;813;58;IKEA Supply;Sweden;13;8;103;212;1201.1;13/10/2025;high
+P00969;Food Item 969;food;New York;781;167;Adidas AG;Germany;28;3;305;200;1580.23;01/12/2024;low
+P00970;Food Item 970;food;New York;644;81;Adidas AG;Germany;28;2;451;349;1772.24;02/08/2024;low
+P00971;Electronics Item 971;electronics;Casablanca;809;179;Adidas AG;Germany;6;1;319;248;1503.86;22/10/2025;low
+P00972;Clothing Item 972;clothing;Casablanca;531;128;IKEA Supply;Sweden;23;5;96;319;1390.55;02/01/2026;medium
+P00973;Furniture Item 973;furniture;Casablanca;274;158;Cargill Inc.;USA;30;10;210;382;78.03;12/08/2024;high
+P00974;Food Item 974;food;Casablanca;883;70;Sony Corp.;Japan;10;3;207;243;1144.88;18/01/2025;low
+P00975;Clothing Item 975;clothing;Toronto;86;44;Nike Inc.;USA;10;1;389;315;706.39;20/08/2025;low
+P00976;Electronics Item 976;electronics;Casablanca;524;169;Nike Inc.;USA;15;6;177;271;820.86;24/05/2025;medium
+P00977;Clothing Item 977;clothing;Paris;391;16;Apple Inc.;USA;8;7;96;380;156.4;25/03/2024;high
+P00978;Clothing Item 978;clothing;Toronto;525;149;Apple Inc.;USA;26;1;334;166;201.33;14/03/2024;low
+P00979;Clothing Item 979;clothing;New York;559;61;IKEA Supply;Sweden;22;3;175;178;608.92;25/02/2026;low
+P00980;Clothing Item 980;clothing;Dubai;722;164;Apple Inc.;USA;30;8;75;54;1541.3;15/10/2024;high
+P00981;Clothing Item 981;clothing;Tokyo;968;113;TechSource Inc.;USA;25;9;425;291;1309.91;18/02/2026;high
+P00982;Food Item 982;food;Tokyo;233;68;Samsung Electronics;South Korea;16;3;375;314;1176.07;19/07/2025;low
+P00983;Furniture Item 983;furniture;Casablanca;348;31;Sony Corp.;Japan;14;3;165;157;880.17;25/07/2025;low
+P00984;Electronics Item 984;electronics;London;142;157;TechSource Inc.;USA;10;2;452;305;1621.75;29/12/2024;high
+P00985;Clothing Item 985;clothing;Dubai;429;118;Adidas AG;Germany;25;6;356;203;655.53;24/01/2024;medium
+P00986;Electronics Item 986;electronics;Shanghai;157;94;Cargill Inc.;USA;26;10;295;361;1149.89;04/02/2025;high
+P00987;Furniture Item 987;furniture;Dubai;971;110;Samsung Electronics;South Korea;13;8;37;293;221.73;06/08/2025;high
+P00988;Furniture Item 988;furniture;Paris;95;53;Nestlé S.A.;Switzerland;18;10;58;66;1653.82;09/09/2025;high
+P00989;Furniture Item 989;furniture;New York;191;60;Samsung Electronics;South Korea;10;6;40;169;585.76;20/06/2025;medium
+P00990;Electronics Item 990;electronics;Casablanca;58;104;IKEA Supply;Sweden;6;0;270;490;1820.08;04/02/2025;high
+P00991;Food Item 991;food;Berlin;132;147;GlobalTech GmbH;Germany;24;7;219;249;1910.42;30/07/2024;high
+P00992;Food Item 992;food;Dubai;317;120;Nestlé S.A.;Switzerland;16;10;423;359;1152.31;13/11/2024;high
+P00993;Food Item 993;food;Toronto;733;185;TechSource Inc.;USA;7;4;239;123;894.23;12/02/2025;medium
+P00994;Food Item 994;food;Toronto;336;155;Nike Inc.;USA;15;7;455;344;82.97;03/04/2024;high
+P00995;Clothing Item 995;clothing;Casablanca;355;189;Cargill Inc.;USA;13;4;436;471;1620.92;28/06/2024;medium
+P00996;Furniture Item 996;furniture;Dubai;183;168;Sony Corp.;Japan;15;6;380;387;370.97;05/08/2025;medium
+P00997;Electronics Item 997;electronics;Tokyo;715;21;Adidas AG;Germany;9;2;127;199;1334.98;09/03/2024;low
+P00998;Food Item 998;food;Casablanca;421;151;GlobalTech GmbH;Germany;3;5;67;308;1534.25;29/11/2024;medium
+P00999;Furniture Item 999;furniture;Casablanca;168;74;Nike Inc.;USA;2;8;111;63;151.03;12/12/2025;high
+P01000;Furniture Item 1000;furniture;Tokyo;351;200;TechSource Inc.;USA;13;3;209;55;504.96;27/12/2025;low
+P01001;Food Item 1001;food;London;686;128;GlobalTech GmbH;Germany;3;7;253;330;1315.76;31/12/2025;high
+P01002;Furniture Item 1002;furniture;Shanghai;482;81;TechSource Inc.;USA;6;2;435;360;205.53;28/10/2024;low
+P01003;Electronics Item 1003;electronics;Toronto;759;110;TechSource Inc.;USA;22;1;91;396;550.14;27/03/2025;low
+P01004;Clothing Item 1004;clothing;Shanghai;221;192;Samsung Electronics;South Korea;18;10;22;276;1395.0;12/10/2025;high
+P01005;Electronics Item 1005;electronics;Tokyo;706;88;TechSource Inc.;USA;20;0;232;74;1545.96;24/02/2026;low
+P01006;Food Item 1006;food;Dubai;383;71;Sony Corp.;Japan;1;1;107;64;1978.63;11/12/2024;low
+P01007;Food Item 1007;food;Berlin;225;34;Nestlé S.A.;Switzerland;6;10;413;72;834.28;20/04/2024;high
+P01008;Clothing Item 1008;clothing;London;575;170;Adidas AG;Germany;7;9;102;252;1878.15;03/05/2024;high
+P01009;Food Item 1009;food;Dubai;108;101;Sony Corp.;Japan;1;2;170;384;635.9;02/02/2025;low
+P01010;Food Item 1010;food;Casablanca;225;26;Cargill Inc.;USA;21;4;341;238;92.66;11/08/2024;medium
+P01011;Furniture Item 1011;furniture;Paris;785;163;Adidas AG;Germany;23;1;260;455;1981.11;05/08/2025;low
+P01012;Food Item 1012;food;Paris;982;34;Sony Corp.;Japan;21;5;312;397;1849.48;28/02/2026;medium
+P01013;Food Item 1013;food;London;179;172;Nike Inc.;USA;28;5;394;84;673.53;15/09/2025;medium
+P01014;Furniture Item 1014;furniture;Tokyo;523;173;Cargill Inc.;USA;17;3;384;410;1976.82;26/08/2024;low
+P01015;Electronics Item 1015;electronics;Sydney;777;41;Sony Corp.;Japan;24;3;163;437;490.87;22/03/2024;low
+P01016;Electronics Item 1016;electronics;Shanghai;383;137;Sony Corp.;Japan;5;3;156;154;1285.87;31/08/2024;low
+P01017;Furniture Item 1017;furniture;London;137;81;TechSource Inc.;USA;26;10;167;316;1584.6;28/02/2025;high
+P01018;Clothing Item 1018;clothing;New York;234;197;Samsung Electronics;South Korea;8;5;174;326;112.88;11/11/2025;medium
+P01019;Food Item 1019;food;Dubai;622;107;Nike Inc.;USA;6;5;271;372;17.06;18/05/2025;medium
+P01020;Electronics Item 1020;electronics;Dubai;53;172;GlobalTech GmbH;Germany;5;3;77;138;1187.3;25/03/2026;medium
+P01021;Food Item 1021;food;Dubai;519;30;Nestlé S.A.;Switzerland;10;7;223;419;399.08;10/03/2025;high
+P01022;Food Item 1022;food;Sydney;254;87;Samsung Electronics;South Korea;15;9;151;189;1725.54;07/05/2025;high
+P01023;Electronics Item 1023;electronics;London;407;106;Sony Corp.;Japan;15;7;90;308;1220.74;19/03/2025;high
+P01024;Food Item 1024;food;Casablanca;20;107;Apple Inc.;USA;25;1;223;354;1076.71;20/07/2025;high
+P01025;Food Item 1025;food;Paris;389;128;Sony Corp.;Japan;10;7;161;337;1214.02;14/03/2024;high
+P01026;Clothing Item 1026;clothing;Shanghai;732;130;Samsung Electronics;South Korea;30;2;105;52;30.6;27/05/2025;low
+P01027;Clothing Item 1027;clothing;Casablanca;414;116;IKEA Supply;Sweden;24;6;486;246;981.65;18/10/2025;medium
+P01028;Electronics Item 1028;electronics;Tokyo;906;19;Cargill Inc.;USA;13;1;476;133;392.49;22/03/2025;low
+P01029;Clothing Item 1029;clothing;London;521;191;IKEA Supply;Sweden;23;10;255;406;120.12;29/01/2025;high
+P01030;Furniture Item 1030;furniture;Dubai;248;132;TechSource Inc.;USA;21;5;22;407;1333.02;31/05/2024;medium
+P01031;Clothing Item 1031;clothing;Sydney;466;184;Cargill Inc.;USA;8;4;80;346;1903.8;14/06/2024;medium
+P01032;Electronics Item 1032;electronics;Berlin;789;33;Cargill Inc.;USA;13;6;334;91;1039.48;12/07/2024;medium
+P01033;Furniture Item 1033;furniture;Shanghai;849;119;Adidas AG;Germany;17;4;134;387;1773.87;23/08/2025;medium
+P01034;Clothing Item 1034;clothing;Tokyo;770;196;Cargill Inc.;USA;4;1;450;447;1596.08;26/05/2024;low
+P01035;Clothing Item 1035;clothing;Dubai;952;111;Nestlé S.A.;Switzerland;1;4;362;467;985.99;09/04/2024;medium
+P01036;Electronics Item 1036;electronics;Tokyo;537;116;Sony Corp.;Japan;24;4;340;137;356.92;09/07/2024;medium
+P01037;Food Item 1037;food;Dubai;498;56;Cargill Inc.;USA;15;1;262;466;429.08;24/07/2024;low
+P01038;Electronics Item 1038;electronics;Shanghai;828;59;Cargill Inc.;USA;15;6;137;105;1737.38;19/06/2024;medium
+P01039;Electronics Item 1039;electronics;Paris;87;106;IKEA Supply;Sweden;3;4;68;65;1173.36;04/05/2025;medium
+P01040;Furniture Item 1040;furniture;Berlin;9;25;Cargill Inc.;USA;22;0;141;454;1975.3;09/04/2024;medium
+P01041;Food Item 1041;food;Toronto;810;11;Apple Inc.;USA;17;9;197;298;949.1;11/12/2024;high
+P01042;Furniture Item 1042;furniture;London;379;184;Samsung Electronics;South Korea;11;5;460;234;1331.83;22/01/2025;medium
+P01043;Electronics Item 1043;electronics;London;894;94;Nike Inc.;USA;1;1;417;495;1398.12;12/01/2026;low
+P01044;Food Item 1044;food;New York;616;41;Samsung Electronics;South Korea;9;8;449;238;906.58;03/12/2025;high
+P01045;Furniture Item 1045;furniture;Toronto;423;179;IKEA Supply;Sweden;21;0;101;58;1269.39;16/02/2024;low
+P01046;Clothing Item 1046;clothing;Casablanca;239;165;Cargill Inc.;USA;24;6;253;456;167.33;14/03/2025;medium
+P01047;Furniture Item 1047;furniture;Berlin;751;108;Nestlé S.A.;Switzerland;7;9;155;495;1042.51;08/08/2025;high
+P01048;Electronics Item 1048;electronics;Shanghai;509;32;Nike Inc.;USA;18;10;159;136;1793.34;28/04/2024;high
+P01049;Furniture Item 1049;furniture;Toronto;246;72;GlobalTech GmbH;Germany;25;2;113;104;872.61;02/01/2026;low
+P01050;Electronics Item 1050;electronics;Shanghai;951;93;Apple Inc.;USA;25;6;467;162;1439.75;12/11/2025;medium
+P01051;Furniture Item 1051;furniture;Berlin;681;44;Nike Inc.;USA;21;8;477;96;1592.1;06/12/2024;high
+P01052;Food Item 1052;food;Sydney;784;163;Sony Corp.;Japan;11;10;38;417;1487.22;12/01/2026;high
+P01053;Furniture Item 1053;furniture;Toronto;989;121;Apple Inc.;USA;8;3;418;109;585.5;24/04/2024;low
+P01054;Electronics Item 1054;electronics;London;758;161;GlobalTech GmbH;Germany;24;3;484;343;738.64;16/11/2024;low
+P01055;Furniture Item 1055;furniture;Sydney;754;10;Adidas AG;Germany;19;0;164;147;1695.0;09/03/2025;low
+P01056;Clothing Item 1056;clothing;London;816;183;Cargill Inc.;USA;17;2;483;352;448.17;08/02/2025;low
+P01057;Electronics Item 1057;electronics;Toronto;872;127;Apple Inc.;USA;27;2;166;478;441.71;27/11/2025;low
+P01058;Furniture Item 1058;furniture;Shanghai;615;82;TechSource Inc.;USA;28;10;79;356;643.68;29/05/2025;high
+P01059;Electronics Item 1059;electronics;Paris;868;190;Samsung Electronics;South Korea;21;7;298;303;586.53;20/01/2025;high
+P01060;Electronics Item 1060;electronics;London;156;193;TechSource Inc.;USA;23;3;112;493;1553.2;14/05/2025;medium
+P01061;Furniture Item 1061;furniture;Paris;834;178;Adidas AG;Germany;1;2;472;250;678.13;25/11/2025;low
+P01062;Furniture Item 1062;furniture;London;775;110;Apple Inc.;USA;17;1;205;194;1394.27;18/07/2024;low
+P01063;Furniture Item 1063;furniture;Berlin;134;92;TechSource Inc.;USA;28;9;390;485;1869.48;07/11/2024;high
+P01064;Furniture Item 1064;furniture;Shanghai;591;45;Nestlé S.A.;Switzerland;10;7;231;157;440.18;05/02/2026;high
+P01065;Food Item 1065;food;New York;370;195;Nestlé S.A.;Switzerland;4;9;443;242;1901.04;13/03/2025;high
+P01066;Food Item 1066;food;New York;98;101;GlobalTech GmbH;Germany;2;2;247;313;1301.95;30/08/2025;high
+P01067;Furniture Item 1067;furniture;Shanghai;642;194;GlobalTech GmbH;Germany;2;3;211;173;796.31;05/11/2024;low
+P01068;Food Item 1068;food;Tokyo;794;187;GlobalTech GmbH;Germany;22;10;412;448;930.03;27/10/2025;high
+P01069;Furniture Item 1069;furniture;Paris;647;177;GlobalTech GmbH;Germany;1;5;232;109;169.86;15/05/2025;medium
+P01070;Food Item 1070;food;New York;600;156;GlobalTech GmbH;Germany;9;7;298;456;1187.79;28/01/2025;high
+P01071;Furniture Item 1071;furniture;Tokyo;305;156;GlobalTech GmbH;Germany;11;1;69;415;1818.22;25/03/2026;low
+P01072;Food Item 1072;food;Tokyo;832;189;Adidas AG;Germany;18;6;15;451;1625.33;15/05/2025;medium
+P01073;Electronics Item 1073;electronics;Toronto;857;159;Samsung Electronics;South Korea;4;10;280;387;1795.72;04/07/2024;high
+P01074;Food Item 1074;food;New York;568;124;TechSource Inc.;USA;4;5;414;115;1152.29;30/10/2025;medium
+P01075;Food Item 1075;food;Berlin;575;75;GlobalTech GmbH;Germany;3;0;440;309;600.66;11/07/2025;low
+P01076;Food Item 1076;food;Tokyo;1000;178;TechSource Inc.;USA;10;3;5;315;1809.72;27/10/2024;low
+P01077;Furniture Item 1077;furniture;Shanghai;590;135;IKEA Supply;Sweden;17;5;360;360;1078.73;02/08/2024;medium
+P01078;Electronics Item 1078;electronics;New York;242;19;Samsung Electronics;South Korea;10;2;101;118;1206.28;09/08/2024;low
+P01079;Clothing Item 1079;clothing;Paris;131;196;Adidas AG;Germany;3;6;323;180;525.05;27/10/2025;high
+P01080;Food Item 1080;food;Tokyo;467;31;Sony Corp.;Japan;22;4;488;405;290.77;27/07/2024;medium
+P01081;Electronics Item 1081;electronics;Paris;648;188;IKEA Supply;Sweden;23;3;335;338;1316.35;07/06/2025;low
+P01082;Food Item 1082;food;Tokyo;841;49;TechSource Inc.;USA;13;6;166;359;498.76;03/10/2024;medium
+P01083;Electronics Item 1083;electronics;Toronto;112;185;IKEA Supply;Sweden;3;6;285;377;182.5;07/12/2024;high
+P01084;Clothing Item 1084;clothing;Shanghai;889;67;Sony Corp.;Japan;4;0;145;163;760.37;17/04/2024;low
+P01085;Electronics Item 1085;electronics;Shanghai;539;196;Nike Inc.;USA;19;4;453;98;1060.28;18/12/2025;medium
+P01086;Clothing Item 1086;clothing;Toronto;277;165;IKEA Supply;Sweden;6;0;55;434;782.18;19/12/2024;low
+P01087;Furniture Item 1087;furniture;Casablanca;606;42;Adidas AG;Germany;22;0;137;415;315.21;09/05/2024;low
+P01088;Food Item 1088;food;Tokyo;581;198;IKEA Supply;Sweden;30;0;141;412;1556.17;25/11/2025;low
+P01089;Furniture Item 1089;furniture;Casablanca;187;122;Apple Inc.;USA;17;7;186;191;1905.47;17/06/2025;high
+P01090;Food Item 1090;food;Paris;650;32;IKEA Supply;Sweden;14;4;490;482;184.83;22/03/2024;medium
+P01091;Electronics Item 1091;electronics;Dubai;967;33;GlobalTech GmbH;Germany;2;9;89;430;575.27;19/05/2025;high
+P01092;Electronics Item 1092;electronics;Tokyo;693;140;Nike Inc.;USA;16;2;482;313;1371.82;24/11/2025;low
+P01093;Electronics Item 1093;electronics;Tokyo;14;167;Sony Corp.;Japan;23;0;102;409;1070.98;19/12/2024;medium
+P01094;Food Item 1094;food;Toronto;700;165;Nestlé S.A.;Switzerland;15;9;26;395;1860.72;21/02/2026;high
+P01095;Food Item 1095;food;Shanghai;76;103;IKEA Supply;Sweden;17;2;434;76;848.33;23/01/2025;high
+P01096;Food Item 1096;food;London;993;38;Adidas AG;Germany;8;10;178;485;1534.0;30/04/2024;high
+P01097;Clothing Item 1097;clothing;Paris;494;85;Cargill Inc.;USA;1;3;140;251;438.84;08/11/2024;low
+P01098;Electronics Item 1098;electronics;Casablanca;913;168;IKEA Supply;Sweden;2;7;439;53;1232.98;02/12/2024;high
+P01099;Clothing Item 1099;clothing;London;109;11;IKEA Supply;Sweden;13;2;184;54;207.17;18/05/2025;low
+P01100;Food Item 1100;food;Berlin;541;141;GlobalTech GmbH;Germany;14;2;465;299;18.79;26/02/2026;low
+P01101;Clothing Item 1101;clothing;Dubai;481;111;Sony Corp.;Japan;12;4;196;143;1075.17;02/10/2024;medium
+P01102;Electronics Item 1102;electronics;Casablanca;672;122;Sony Corp.;Japan;12;2;87;52;721.68;27/12/2025;low
+P01103;Food Item 1103;food;Berlin;194;82;Sony Corp.;Japan;13;2;25;430;665.77;02/02/2024;low
+P01104;Food Item 1104;food;Dubai;971;132;GlobalTech GmbH;Germany;9;10;496;265;980.69;22/05/2025;high
+P01105;Food Item 1105;food;London;769;112;GlobalTech GmbH;Germany;5;6;261;105;1586.46;09/05/2024;medium
+P01106;Food Item 1106;food;London;512;13;TechSource Inc.;USA;8;10;397;397;1660.52;15/03/2025;high
+P01107;Electronics Item 1107;electronics;Tokyo;491;84;Sony Corp.;Japan;3;7;149;176;1237.14;16/01/2026;high
+P01108;Food Item 1108;food;Dubai;287;39;Samsung Electronics;South Korea;23;4;447;391;1642.12;22/07/2024;medium
+P01109;Furniture Item 1109;furniture;Berlin;717;196;Samsung Electronics;South Korea;6;9;262;487;1184.44;11/10/2025;high
+P01110;Food Item 1110;food;Dubai;123;43;Samsung Electronics;South Korea;9;0;210;124;855.47;23/09/2025;low
+P01111;Food Item 1111;food;Berlin;885;23;Apple Inc.;USA;17;6;199;408;1268.45;24/08/2024;medium
+P01112;Food Item 1112;food;London;436;132;TechSource Inc.;USA;14;8;36;205;224.56;07/01/2025;high
+P01113;Clothing Item 1113;clothing;London;728;117;TechSource Inc.;USA;29;5;131;143;86.57;23/02/2024;medium
+P01114;Clothing Item 1114;clothing;Dubai;292;130;Sony Corp.;Japan;4;9;148;144;508.26;18/05/2025;high
+P01115;Clothing Item 1115;clothing;London;311;38;Adidas AG;Germany;1;10;54;444;1724.64;05/12/2024;high
+P01116;Clothing Item 1116;clothing;London;760;160;Samsung Electronics;South Korea;12;9;275;382;555.51;21/08/2025;high
+P01117;Furniture Item 1117;furniture;Berlin;908;37;Cargill Inc.;USA;24;10;71;111;86.87;01/11/2025;high
+P01118;Food Item 1118;food;Dubai;721;124;Adidas AG;Germany;3;1;478;366;689.08;12/01/2026;low
+P01119;Furniture Item 1119;furniture;Dubai;546;194;Samsung Electronics;South Korea;5;0;83;264;1103.24;15/09/2024;low
+P01120;Clothing Item 1120;clothing;London;459;171;Sony Corp.;Japan;30;1;372;84;968.23;20/06/2025;low
+P01121;Electronics Item 1121;electronics;Shanghai;613;80;TechSource Inc.;USA;10;2;361;339;126.28;11/12/2025;low
+P01122;Food Item 1122;food;Tokyo;506;185;Nestlé S.A.;Switzerland;3;8;277;274;1502.7;28/01/2025;high
+P01123;Furniture Item 1123;furniture;Tokyo;621;79;Nestlé S.A.;Switzerland;1;2;110;342;439.53;14/12/2025;low
+P01124;Electronics Item 1124;electronics;Toronto;466;138;Apple Inc.;USA;9;8;367;486;444.57;26/12/2025;high
+P01125;Clothing Item 1125;clothing;Toronto;121;53;Samsung Electronics;South Korea;18;0;119;199;82.99;31/05/2024;low
+P01126;Clothing Item 1126;clothing;Shanghai;276;23;Samsung Electronics;South Korea;27;3;333;323;236.79;26/10/2025;low
+P01127;Clothing Item 1127;clothing;Sydney;995;104;Adidas AG;Germany;23;1;171;185;1445.55;22/02/2025;low
+P01128;Clothing Item 1128;clothing;London;58;170;IKEA Supply;Sweden;27;0;422;162;1462.3;13/10/2024;high
+P01129;Food Item 1129;food;Paris;994;14;Cargill Inc.;USA;28;10;280;104;1446.59;05/12/2025;high
+P01130;Furniture Item 1130;furniture;Paris;890;170;Samsung Electronics;South Korea;18;9;329;468;887.16;28/11/2024;high
+P01131;Clothing Item 1131;clothing;Dubai;595;171;Nike Inc.;USA;5;6;418;168;1460.97;20/03/2025;medium
+P01132;Clothing Item 1132;clothing;Shanghai;923;132;Nike Inc.;USA;6;7;52;144;1632.12;29/06/2024;high
+P01133;Food Item 1133;food;Sydney;502;196;TechSource Inc.;USA;10;10;97;208;330.02;30/06/2024;high
+P01134;Furniture Item 1134;furniture;Sydney;192;27;Samsung Electronics;South Korea;14;1;78;282;1818.72;16/02/2025;low
+P01135;Electronics Item 1135;electronics;Toronto;140;196;GlobalTech GmbH;Germany;20;0;389;243;771.06;22/04/2024;high
+P01136;Electronics Item 1136;electronics;New York;135;73;Nestlé S.A.;Switzerland;9;1;399;371;1201.28;22/03/2026;low
+P01137;Electronics Item 1137;electronics;Berlin;555;198;GlobalTech GmbH;Germany;28;5;423;153;282.76;16/02/2026;medium
+P01138;Furniture Item 1138;furniture;Shanghai;314;94;TechSource Inc.;USA;8;2;250;328;1385.62;04/10/2025;low
+P01139;Electronics Item 1139;electronics;New York;844;21;GlobalTech GmbH;Germany;10;8;57;311;1773.48;01/03/2025;high
+P01140;Food Item 1140;food;New York;934;67;Sony Corp.;Japan;14;3;17;125;709.85;20/10/2024;low
+P01141;Food Item 1141;food;Tokyo;703;193;Nestlé S.A.;Switzerland;16;1;426;106;452.92;15/10/2024;low
+P01142;Clothing Item 1142;clothing;Berlin;630;95;GlobalTech GmbH;Germany;30;5;65;72;1210.99;01/07/2024;medium
+P01143;Furniture Item 1143;furniture;Toronto;342;163;Nestlé S.A.;Switzerland;14;10;97;391;1375.89;01/10/2025;high
+P01144;Clothing Item 1144;clothing;London;896;36;IKEA Supply;Sweden;22;7;143;185;1622.39;29/12/2025;high
+P01145;Electronics Item 1145;electronics;New York;882;48;IKEA Supply;Sweden;5;10;403;125;784.25;08/01/2026;high
+P01146;Furniture Item 1146;furniture;Berlin;115;157;GlobalTech GmbH;Germany;5;4;223;215;1989.57;05/07/2024;high
+P01147;Furniture Item 1147;furniture;London;326;136;Sony Corp.;Japan;23;7;222;358;1588.04;07/12/2024;high
+P01148;Food Item 1148;food;Dubai;392;117;Adidas AG;Germany;18;7;286;302;1067.29;23/08/2024;high
+P01149;Furniture Item 1149;furniture;Berlin;594;193;Samsung Electronics;South Korea;19;8;220;409;179.06;05/01/2025;high
+P01150;Electronics Item 1150;electronics;Dubai;871;14;Nestlé S.A.;Switzerland;16;8;190;106;123.86;23/12/2024;high
+P01151;Clothing Item 1151;clothing;Shanghai;301;127;Sony Corp.;Japan;30;8;78;174;425.42;17/08/2024;high
+P01152;Electronics Item 1152;electronics;Shanghai;120;188;TechSource Inc.;USA;13;2;365;406;1930.0;15/01/2025;high
+P01153;Electronics Item 1153;electronics;Berlin;678;158;Cargill Inc.;USA;27;7;42;495;320.56;30/05/2024;high
+P01154;Clothing Item 1154;clothing;Shanghai;80;72;Sony Corp.;Japan;19;0;44;126;1532.01;26/04/2025;low
+P01155;Food Item 1155;food;Toronto;715;86;IKEA Supply;Sweden;24;6;245;277;1563.89;12/12/2025;medium
+P01156;Electronics Item 1156;electronics;Paris;113;49;Cargill Inc.;USA;2;10;35;434;351.29;13/06/2024;high
+P01157;Electronics Item 1157;electronics;Tokyo;852;118;Apple Inc.;USA;18;7;353;342;1006.24;27/12/2025;high
+P01158;Food Item 1158;food;Tokyo;953;50;Sony Corp.;Japan;17;1;144;114;1487.55;14/02/2025;low
+P01159;Electronics Item 1159;electronics;Dubai;401;57;GlobalTech GmbH;Germany;20;8;426;468;1386.39;03/05/2025;high
+P01160;Clothing Item 1160;clothing;Tokyo;847;107;IKEA Supply;Sweden;26;0;89;381;851.32;03/10/2024;low
+P01161;Electronics Item 1161;electronics;Berlin;79;102;Samsung Electronics;South Korea;1;5;313;194;329.71;19/04/2024;high
+P01162;Electronics Item 1162;electronics;Dubai;611;12;Adidas AG;Germany;7;4;392;153;1278.59;03/02/2024;medium
+P01163;Food Item 1163;food;Paris;87;155;Nike Inc.;USA;19;0;294;73;100.86;05/04/2024;high
+P01164;Clothing Item 1164;clothing;New York;365;82;Samsung Electronics;South Korea;17;6;495;211;1504.93;13/01/2026;medium
+P01165;Clothing Item 1165;clothing;Shanghai;719;182;Adidas AG;Germany;14;5;54;101;1006.84;04/03/2026;medium
+P01166;Food Item 1166;food;New York;601;107;TechSource Inc.;USA;28;9;249;198;326.64;29/11/2025;high
+P01167;Furniture Item 1167;furniture;Berlin;906;170;Samsung Electronics;South Korea;29;3;52;463;1364.51;24/05/2024;low
+P01168;Food Item 1168;food;Toronto;528;196;IKEA Supply;Sweden;17;10;316;279;1571.78;13/12/2024;high
+P01169;Clothing Item 1169;clothing;London;638;120;Samsung Electronics;South Korea;13;10;25;156;1994.03;13/09/2025;high
+P01170;Electronics Item 1170;electronics;Shanghai;580;170;TechSource Inc.;USA;26;1;259;123;1533.8;12/11/2024;low
+P01171;Electronics Item 1171;electronics;Casablanca;96;126;Apple Inc.;USA;30;2;165;132;140.98;13/08/2025;medium
+P01172;Clothing Item 1172;clothing;London;91;28;Nike Inc.;USA;9;7;96;181;1527.48;28/03/2025;high
+P01173;Food Item 1173;food;Berlin;995;155;Apple Inc.;USA;12;0;254;255;821.02;26/09/2025;low
+P01174;Food Item 1174;food;Casablanca;375;141;IKEA Supply;Sweden;11;9;437;92;1365.99;02/06/2025;high
+P01175;Furniture Item 1175;furniture;Paris;898;184;TechSource Inc.;USA;21;9;26;429;1582.23;17/12/2025;high
+P01176;Electronics Item 1176;electronics;Shanghai;873;36;Cargill Inc.;USA;6;6;153;254;1708.39;16/08/2024;medium
+P01177;Furniture Item 1177;furniture;Casablanca;685;33;Adidas AG;Germany;15;7;183;468;932.38;28/03/2024;high
+P01178;Food Item 1178;food;Berlin;939;111;Sony Corp.;Japan;7;6;398;218;133.62;16/12/2024;medium
+P01179;Furniture Item 1179;furniture;Dubai;719;199;Nike Inc.;USA;9;1;248;69;1092.44;26/04/2025;low
+P01180;Food Item 1180;food;Dubai;327;155;Sony Corp.;Japan;25;9;21;81;1873.24;05/01/2025;high
+P01181;Furniture Item 1181;furniture;Casablanca;218;23;Sony Corp.;Japan;25;0;113;188;507.88;29/06/2024;low
+P01182;Electronics Item 1182;electronics;Shanghai;70;80;Nike Inc.;USA;10;1;212;496;842.35;07/08/2024;high
+P01183;Clothing Item 1183;clothing;Shanghai;850;23;Apple Inc.;USA;11;6;52;134;401.22;05/03/2025;medium
+P01184;Furniture Item 1184;furniture;Casablanca;548;186;Sony Corp.;Japan;23;2;406;231;1825.63;07/08/2025;low
+P01185;Furniture Item 1185;furniture;New York;574;162;Cargill Inc.;USA;24;1;106;365;293.51;11/11/2025;low
+P01186;Clothing Item 1186;clothing;New York;154;127;IKEA Supply;Sweden;16;2;483;108;1585.07;21/11/2025;low
+P01187;Furniture Item 1187;furniture;Paris;533;194;Nestlé S.A.;Switzerland;27;7;6;374;901.41;15/08/2025;high
+P01188;Electronics Item 1188;electronics;New York;223;200;Adidas AG;Germany;23;6;101;446;336.37;21/01/2025;medium
+P01189;Food Item 1189;food;London;214;58;IKEA Supply;Sweden;1;9;352;466;730.77;05/11/2024;high
+P01190;Clothing Item 1190;clothing;Toronto;838;41;Nike Inc.;USA;21;7;363;261;823.72;26/12/2024;high
+P01191;Furniture Item 1191;furniture;Toronto;997;95;Sony Corp.;Japan;15;2;63;241;357.91;01/09/2025;low
+P01192;Food Item 1192;food;Toronto;446;107;Sony Corp.;Japan;23;10;150;374;570.08;27/09/2025;high
+P01193;Electronics Item 1193;electronics;Berlin;825;36;Cargill Inc.;USA;1;10;50;260;211.83;06/02/2026;high
+P01194;Electronics Item 1194;electronics;Casablanca;515;158;Apple Inc.;USA;22;0;417;486;844.18;16/08/2024;low
+P01195;Furniture Item 1195;furniture;Toronto;390;39;IKEA Supply;Sweden;4;7;105;456;1828.49;26/02/2025;high
+P01196;Furniture Item 1196;furniture;New York;962;105;Apple Inc.;USA;17;3;405;187;1759.82;27/09/2024;low
+P01197;Clothing Item 1197;clothing;Tokyo;689;71;TechSource Inc.;USA;2;6;7;63;310.98;18/01/2025;medium
+P01198;Clothing Item 1198;clothing;London;174;156;Sony Corp.;Japan;18;3;225;148;1234.45;06/02/2025;low
+P01199;Electronics Item 1199;electronics;Sydney;439;42;Nestlé S.A.;Switzerland;13;10;485;256;1808.82;13/06/2025;high

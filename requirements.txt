@@ -1,0 +1,21 @@
+# Core Framework
+langchain==0.3.0
+langchain-community==0.3.0
+langchain-core==0.3.0
+
+# Vector Store & Embeddings
+faiss-cpu==1.8.0
+sentence-transformers==3.0.1
+huggingface-hub==0.24.0
+
+# LLM & Data Processing
+ollama==0.3.0
+pandas==2.2.2
+numpy==1.26.4
+
+# UI
+streamlit==1.38.0
+
+# Utilities
+python-dotenv==1.0.1
+pydantic==2.8.2
