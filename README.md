@@ -1,14 +1,13 @@
-# 🏭 SupplyAI --- Assistant IA pour la Chaîne d'Approvisionnement
+# 🏭 SupplyAI — Assistant IA pour la Chaîne d'Approvisionnement
 
-```{=html}
 <p align="center">
-```
-`<img src="platform.png" alt="Interface SupplyAI" width="90%"/>`{=html}
-`<br>`{=html} `<i>`{=html}Interface principale de SupplyAI --- Tableau
-de bord, métriques d'inventaire et chat interactif`</i>`{=html}
-```{=html}
+  <img src="platform.png" alt="Interface SupplyAI" width="90%"/>
+  <br>
+  <i>Interface principale de SupplyAI — Tableau de bord, métriques d'inventaire et chat interactif</i>
 </p>
-```
+
+---
+
 
 ------------------------------------------------------------------------
 
