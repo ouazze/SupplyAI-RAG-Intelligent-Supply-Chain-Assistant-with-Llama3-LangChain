@@ -71,19 +71,6 @@ Placez votre image `platform.png` dans le même dossier que ce README pour l'aff
 CSV → Loader → Documents → Embeddings → FAISS → RAG → LLM → UI
 
 ------------------------------------------------------------------------
-## Structure projet
-SupplyAI/
-├── app/
-├── chains/
-├── data_loader/
-├── embeddings/
-├── llm/
-├── prompts/
-├── vectorstore/
-├── main.py
-├── requirements.txt
-└── README.md
-------------------------------------------------------------------------
 ## 🛠️ Prérequis
 
 -   Python 3.11
